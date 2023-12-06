@@ -1,4 +1,4 @@
-[url=https://postimg.cc/2bGHy67Y][img]https://i.postimg.cc/2bGHy67Y/github-header-image.png[/img][/urlwidth="200" height="200"/>]
+[url=https://postimg.cc/2bGHy67Y][img]https://i.postimg.cc/2bGHy67Y/github-header-image.png[/img][/url]
 
 <h1 align="center">Hi 👋, I'm L16H7N1N65</h1>
 <h3 align="left">Connect with me:</h3>
