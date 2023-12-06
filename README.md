@@ -1,4 +1,4 @@
-![Header](https://postimg.cc/2bGHy67Y)
+<a href='https://postimg.cc/2bGHy67Y' target='_blank'><img src='https://i.postimg.cc/2bGHy67Y/github-header-image.png' border='0' alt='github-header-image'/></a>
 
 <h1 align="center">Hi 👋, I'm L16H7N1N65</h1>
 
