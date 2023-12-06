@@ -1,4 +1,4 @@
-![Header]([github-header-image.png](https://postimg.cc/2bGHy67Y)]
+![Header](https://postimg.cc/2bGHy67Y)
 
 <h1 align="center">Hi 👋, I'm L16H7N1N65</h1>
 
