@@ -1,4 +1,5 @@
-![github-header-image](https://github.com/L16H7N1N65/L16H7N1N65/assets/79063770/2dbbefe3-e2a4-4605-ab92-eefba0acc897)
+![github-header-image (2)](https://github.com/L16H7N1N65/L16H7N1N65/assets/79063770/0be44053-7d5e-403f-b302-5a6dd6013d21)
+
 
 <h1 align="center">Hi 👋, I'm L16H7N1N65</h1>
 
