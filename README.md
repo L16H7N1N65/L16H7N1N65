@@ -1,7 +1,7 @@
 ![Header](./your-header-image-name.png)
 
 <h1 align="center">Hi 👋, I'm L16H7N1N65</h1>
-<h3 align="center">A passionate full-stack development student from France</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
