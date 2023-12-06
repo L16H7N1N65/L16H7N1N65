@@ -1,4 +1,4 @@
-[url=https://postimg.cc/2bGHy67Y][img]https://i.postimg.cc/2bGHy67Y/github-header-image.png[/img][/url]
+![github-header-image](https://github.com/L16H7N1N65/L16H7N1N65/assets/79063770/2dbbefe3-e2a4-4605-ab92-eefba0acc897)
 
 <h1 align="center">Hi 👋, I'm L16H7N1N65</h1>
 <h3 align="left">Connect with me:</h3>
