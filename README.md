@@ -10,7 +10,7 @@
 
 <!-- Container Infos -->
 <div align="center">
-**👨‍💻 Full stack web & mobile developer student**
+<h3>**Full stack web & mobile developer student**</h3>
 </div>
 
 <!-- Spacce -->
@@ -36,13 +36,13 @@
 <a href="https://www.w3schools.com/js/default.asp" target="_blank">![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")</a>
 <a href ="https://www.w3schools.com/php/default.asp" target="_blank">![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white "PHP")</a>
 <a href="https://www.w3schools.com/three.js/default.asp" target="_blank">![HTML](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white "Three.js")</a>
-<a href="https://www.w3schools.com/css/default.asp" target="_blank">![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS")</a>
-
+<a href="https://www.w3schools.com/sass/default.asp" target="_blank">![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white "SASS")</a>
+<a href="https://www.w3schools.com/react/default.asp" target="_blank">![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React")</a>
 <!-- [![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "Typescript")][repo]
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React")][repo]
+
 [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white "Next.js")][repo]
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white "Bootstrap")][repo]
-[![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white "SASS")][repo]
+
 
 [![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white "JQuery")][repo]
 [![Material UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white "Material UI")][repo]
@@ -140,22 +140,8 @@
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)][repo] -->
   
 <!-- Space -->
-<br/>
-
-<!-- Space Bar -->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="100%" height="2" />
-<!-- ETH / ERC-20 PNG -->
-<img width=100% src=https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemgzemk4cnM0aXB5emJmOGNscTRpOGhhdjJqY2lqdnI3YnI2cnJ3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MagSgolK3ScWvtHAB4/giphy.gif />
-<!-- Space Bar -->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="100%" height="2" />
-<!-- End -->
-
-
-
-<p align="center">
 </p>
-
-<h3 align="center">Languages and Tools:</h3>
+<!--<h3 align="center">Languages and Tools:</h3>
 <p align="center">  
  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
   <a href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
@@ -165,6 +151,6 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="60" height="40"/> </a>
   <a href="https://threejs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/mrdoob/three.js/blob/38bf5f47a8c01a1d12d16a41b4097dc9ee31daad/files/icon.svg" alt="three.js" width="40" height="40"/> </a>
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://www.blender.org/wp-content/uploads/2015/03/blender_logo_socket-1-1280x391.png" alt="blender" width="100" height="40"/> </a>
-</p>
+</p>-->
 
 
