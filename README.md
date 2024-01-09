@@ -2,7 +2,7 @@
 ![L16H7N1N65](https://github.com/L16H7N1N65/L16H7N1N65/assets/79063770/bb2023c3-d52b-4937-b55e-9e957190403d)
 
 
-<h1 align="center">Hey 🖖🏻, I'm L16H7N1N65</h1>
+<h1 align="center">Hey 🖖🏻, I'm Linda</h1>
 
 <p align="center">
 </p>
