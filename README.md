@@ -1,4 +1,5 @@
-<img src="https://github.com/L16H7N1N65/L16H7N1N65/assets/79063770/bf1d360c-77b5-4e5b-a30a-fb9ac377783c">
+
+![L16H7N1N65 (2)](https://github.com/L16H7N1N65/L16H7N1N65/assets/79063770/39e53e9a-549c-4cd4-852f-defc077765a1)
 
 <!-- Start -->
 <h1 align="center">Hey 🖖🏻, I'm Linda</h1>
