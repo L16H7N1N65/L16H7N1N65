@@ -15,7 +15,7 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
   <a href="https://threejs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/mrdoob/three.js/blob/38bf5f47a8c01a1d12d16a41b4097dc9ee31daad/files/icon.svg" alt="three.js" width="40" height="40"/> </a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://www.blender.org/wp-content/uploads/2015/03/blender_logo_socket-1-1280x391.png" alt="blender" width="40" height="40"/> </a>
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://www.blender.org/wp-content/uploads/2015/03/blender_logo_socket-1-1280x391.png" alt="blender" width="60" height="40"/> </a>
 </p>
 
 
