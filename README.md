@@ -2,7 +2,7 @@
 <img src="https://github.com/L16H7N1N65/L16H7N1N65/assets/79063770/39e53e9a-549c-4cd4-852f-defc077765a1">
 </p>
 <!-- Start -->
-<h1 align="center">Bonjour 🖖🏻, I'm Linda</h1>
+<h1 align="center">Bonjour 🖖🏻, I'm Linda aka "L16H7N1N65"</h1>
 
 <!-- Space -->
 <br/>
