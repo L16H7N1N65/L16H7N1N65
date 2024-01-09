@@ -1,6 +1,6 @@
-
-![L16H7N1N65 (2)](https://github.com/L16H7N1N65/L16H7N1N65/assets/79063770/39e53e9a-549c-4cd4-852f-defc077765a1)
-
+<p align="center">
+<img src="https://github.com/L16H7N1N65/L16H7N1N65/assets/79063770/39e53e9a-549c-4cd4-852f-defc077765a1">
+</p>
 <!-- Start -->
 <h1 align="center">Hey 🖖🏻, I'm Linda</h1>
 
