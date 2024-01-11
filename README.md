@@ -6,8 +6,6 @@
 
 <!-- Space -->
 <br/>
-
-
 <!-- Container Infos -->
 <div align="center">
 <h3>**Full stack web & mobile developer student**</h3>
