@@ -34,7 +34,7 @@
 <a href ="https://www.w3schools.com/php/default.asp" target="_blank">![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white "PHP")</a>
 <a href="https://www.w3schools.com/three.js/default.asp" target="_blank">![HTML](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white "Three.js")</a>
 <a href="https://www.w3schools.com/sass/default.asp" target="_blank">![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white "SASS")</a>
-<a href="https://www.w3schools.com/bootstrap/default.asp" target="_blank">![![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white "Bootstrap")</a>
+<a href="https://www.w3schools.com/bootstrap/default.asp" target="_blank">![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white "Bootstrap")</a>
 <!-- [React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React")</a>
 <!-- [![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "Typescript")][repo]
 
