@@ -26,7 +26,7 @@
 
  <a href="mailto:linda.meghouche@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Linda" /></a>
  <a href=""><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="profile of Discord with username n16h7h4wk_" ></a>
- <a href=""><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Lindamg" /></a>
+ <a href="https://www.linkedin.com/in/lindamg/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Lindamg" /></a>
 <!-- Dev Web -->
 <h2 align="left">🕸️ WEB DEV</h2>
 <!-- Space -->
