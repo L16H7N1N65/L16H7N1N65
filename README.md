@@ -13,7 +13,7 @@
 
 <!-- Click for more -->
 <details/>
-<summary align="center">CLICK FOR MORE INFO !</summary>
+<summary align="center"><h3>Click here for more info !</h3></summary>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
