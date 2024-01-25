@@ -8,7 +8,7 @@
 <br/>
 <!-- Container Infos -->
 <div align="center">
-<h3>**Full stack web & mobile developer student**</h3>
+<h3>**Web developer**</h3>
 </div>
 
 <!-- Spacce -->
