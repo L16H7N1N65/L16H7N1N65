@@ -5,10 +5,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h1 align="center">Bonjour 🖖🏻, I'm Linda aka "L16H7N1N65"</h1>
 <!-- Space -->
 <br/>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=L16H7N1N65&color=brightgreen&label=STALKERS" height="50em" /></p>
 <!-- Container Infos -->
 
 
-<!-- Spacce -->
+<!-- Space -->
 <br/>
 
 <!-- Click for more -->
