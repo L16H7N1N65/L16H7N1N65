@@ -10,14 +10,13 @@
   <img src="https://profile-counter.glitch.me/L16H7N1N65/count.svg?"  />
 </div>
 
-<br clear="both">
 <!-- Container Infos -->
-
 
 <!-- Space -->
 <br/>
 
 <!-- Click for more -->
+
 <details/>
 <summary align="center"><h3>Click here for more info !</h3></summary>
 <div align="center">
@@ -27,22 +26,26 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=L16H7N1N65&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=L16H7N1N65&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=L16H7N1N65&theme=2077" height="180em" /><br>
-  <div align="center">
+  
+<div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"> </h3>
-
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=L16H7N1N65&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=L16H7N1N65&theme=2077" height="180em" />
-
 </div>  
+
 <!-- My Information -->
 <h2 align="left">ℹ️ INFORMATION & CONTACT</h2>
-<!-- Spacce -->
+
+<!-- Space -->
 
  <a href="mailto:linda.meghouche@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Linda" /></a>
  <a href="https://discord.com/users/1095557554920235108"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="profile of Discord with username n16h7h4wk_" ></a>
  <a href="https://www.linkedin.com/in/lindamg/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Lindamg" /></a>
+ 
 <!-- Dev Web -->
+
 <h2 align="left">🕸️ WEB DEV</h2>
+
 <!-- Space -->
 
 
