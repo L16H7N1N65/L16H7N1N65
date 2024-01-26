@@ -2,7 +2,8 @@
 <img src="https://github.com/L16H7N1N65/L16H7N1N65/assets/79063770/39e53e9a-549c-4cd4-852f-defc077765a1">
 </p>
 <!-- Start -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h1 align="center">I'm Linda aka "L16H7N1N65" ٱلسَّلَامُ عَلَيْكُمْ </h1>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h1 align="center">"Hello, I'm Linda"</h1>
 <!-- Space -->
 <br clear="both">
 
