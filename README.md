@@ -1,6 +1,5 @@
-<p align="center">
-<img src="https://github.com/L16H7N1N65/L16H7N1N65/assets/79063770/39e53e9a-549c-4cd4-852f-defc077765a1">
-</p>
+https://github.com/L16H7N1N65/L16H7N1N65/assets/79063770/78d20a41-8191-4590-aabb-d6bf4a1ccb3c
+
 <!-- Start -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h1 align="center">"Hello, I'm Linda"</h1>
