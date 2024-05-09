@@ -11,8 +11,9 @@ https://github.com/L16H7N1N65/L16H7N1N65/assets/79063770/c0317a1a-fe42-42e7-bb2a
 
 
 <!-- Start -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h1 align="center">"Hello, I'm Linda"</h1>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=000000&background=E9000000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Linda;Curious+tech+enthusiast;always+on+the+lookout;+for+new+ideas+%26+insights+;to+fuel+my+creativity." alt="Typing SVG" /></a>
+</div>
 <!-- Space -->
 <br clear="both">
 
