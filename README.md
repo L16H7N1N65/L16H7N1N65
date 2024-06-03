@@ -6,12 +6,9 @@ https://github.com/L16H7N1N65/L16H7N1N65/assets/79063770/c0317a1a-fe42-42e7-bb2a
 
 </div>
 
-
-
-
-
 <!-- Start -->
 <div align="center">
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Merriweather&weight=600&size=40&duration=500&pause=100&color=080702&background=FF261100&center=true&vCenter=true&random=true&width=450&lines=Bonjour;Ol%C3%A1;Hola;Ciao;Hallo;%E4%BD%A0%E5%A5%BD;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94;%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5;%D8%A7%D9%84%D8%B3%D9%8E%D9%91%D9%84%D9%8E%D8%A7%D9%85%D9%8F+%D8%B9%D9%8E%D9%84%D9%8E%D9%8A%D9%92%D9%83%D9%8F%D9%85%D9%92;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87;%D7%9E%D7%94%D7%A0%D7%94%D7%A8+%D7%95%D7%A2%D7%93+%D7%94%D7%99%D7%9D%2C+%D7%A4%D7%9C%D7%A1%D7%98%D7%99%D7%9F+%D7%AA%D7%94%D7%99%D7%94+%D7%97%D7%95%D7%A4%D7%A9%D7%99%D7%AA;Hej;Cze%C5%9B%C4%87;Ahoj;+%CE%93%CE%B5%CE%B9%CE%AC+%CF%83%CE%BF%CF%85;+%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B5+;Xin+ch%C3%A0o;Halo;Szia;%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D0%B5%D0%B9%D1%82%D0%B5;%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D0%BE;Bok;Habari;P%C3%ABrsh%C3%ABndetje;%E0%A6%B9%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%8B;Zdravo;%D0%A1%D0%B0%D0%B9%D0%BD+%D1%83%D1%83;%E1%83%92%E1%83%90%E1%83%9B%E1%83%90%E1%83%A0%E1%83%AF%E1%83%9D%E1%83%91%E1%83%90;Merhaba" alt="Typing SVG" /></a>
 </div>
 
@@ -23,12 +20,9 @@ https://github.com/L16H7N1N65/L16H7N1N65/assets/79063770/c0317a1a-fe42-42e7-bb2a
 <div align="center">
   <img src="https://profile-counter.glitch.me/L16H7N1N65/count.svg?"  />
 </div>
-
 <!-- Container Infos -->
-
 <!-- Space -->
 <br/>
-
 <!-- Click for more -->
 
 <details/>
