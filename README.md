@@ -17,9 +17,7 @@ https://github.com/L16H7N1N65/L16H7N1N65/assets/79063770/c0317a1a-fe42-42e7-bb2a
 <!-- Space -->
 <br clear="both">
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/L16H7N1N65/count.svg?"  />
-</div>
+
 <!-- Container Infos -->
 <!-- Space -->
 <br/>
