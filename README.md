@@ -199,6 +199,63 @@ Q --> P
 R --> O
 ```
 
+---
+
+# AI / RAG PIPELINE 
+
+```mermaid
+flowchart LR
+
+subgraph Data
+A[Documents]
+B[Web Data]
+C[User Inputs]
+end
+
+A --> D
+B --> D
+C --> D
+
+subgraph Processing
+D[ETL Cleaning]
+E[Text Normalization]
+F[Chunking]
+end
+
+D --> E
+E --> F
+
+subgraph Embeddings
+G[Embedding Model]
+end
+
+F --> G
+
+subgraph Vector Storage
+H[Vector Database]
+end
+
+G --> H
+
+subgraph Retrieval
+I[Retriever]
+end
+
+H --> I
+
+subgraph Generation
+J[LLM]
+end
+
+I --> J
+
+subgraph Interface
+K[User Interface]
+end
+
+J --> K
+```
+
 
 ---
 
