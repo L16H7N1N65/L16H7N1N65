@@ -3,32 +3,33 @@
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=700&center=true&vCenter=true&width=700&lines=booting+data+platform...;loading+modules...;data+engineering+environment+online"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=700&center=true&vCenter=true&width=700&lines=initiating+data+observatory...;loading+dashboard+modules...;data+platform+monitoring+online"/>
 </p>
+
+<h2 align="center">// SYSTEM STATUS OVERVIEW</h2>
 
 <div align="center">
-<pre>
-[SYSTEM] Initializing Data Platform Services...
-[KERNEL] Loading Distributed Compute Modules...
-[NETWORK] Establishing Data Stream Connections...
-[STORAGE] Mounting Data Lake Volumes...
-[PLATFORM] Launching Real-time Analytics Engine...
 
-Loading Data Engineering Components:
+[![Data Ingestion Status](https://img.shields.io/badge/Data%20Ingestion-ONLINE-brightgreen?style=for-the-badge&logo=apachekafka&logoColor=white)](https://www.apache.org/)
+[![Data Processing Status](https://img.shields.io/badge/Data%20Processing-HEALTHY-brightgreen?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org/)
+[![Data Storage Status](https://img.shields.io/badge/Data%20Storage-OPTIMIZED-blue?style=for-the-badge&logo=amazons3&logoColor=white)](https://aws.amazon.com/s3/)
+[![Real-time Analytics](https://img.shields.io/badge/Real--time%20Analytics-ACTIVE-brightgreen?style=for-the-badge&logo=apacheflink&logoColor=white)](https://flink.apache.org/)
 
-Data Ingestion         [████████████████████] 100% - Active
-Data Transformation    [████████████████████] 100% - Active
-Data Warehousing       [███████████████████░] 96%  - Optimizing
-Real-time Processing   [██████████████████░░] 92%  - Syncing
-</pre>
 </div>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1000&pause=1000&center=true&vCenter=true&width=700&lines=┌──(L16H7N1N65㉿github)-[~/data_platform];└─$ whoami;data+engineer"/>
-</p>
+<h2 align="center">// DATA PIPELINE METRICS</h2>
 
+<div align="center">
+
+[![Pipeline Latency](https://img.shields.io/badge/Latency-200ms-blue?style=for-the-badge&logo=speedtest&logoColor=white)](https://www.speedtest.net/)
+[![Data Throughput](https://img.shields.io/badge/Throughput-500k%2Fsec-blue?style=for-the-badge&logo=apachekafka&logoColor=white)](https://www.apache.org/)
+[![System Uptime](https://img.shields.io/badge/Uptime-99.8%25-brightgreen?style=for-the-badge&logo=linux&logoColor=white)](https://www.linux.org/)
+
+</div>
+
+<h2 align="center">// DATA FLOW ARCHITECTURE</h2>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&center=true&vCenter=true&width=700&lines=┌──(L16H7N1N65㉿github)-[~/data_platform];└─$ cat+data_pipeline_status.log;[INFO]+Source:+Kafka+->+Ingestion+Layer:+Flink+->+Storage:+S3+Data+Lake+->+Processing:+Spark+->+Warehouse:+Snowflake+->+BI:+Tableau;[INFO]+Data+Flow+Health:+Stable+(99.8%25+uptime);[INFO]+Latency:+Average+200ms+(Real-time+streams);[INFO]+Throughput:+500k+events/sec"/>
+<img src="https://github.com/L16H7N1N65/L16H7N1N65/assets/79063770/c0317a1a-fe42-42e7-bb2a-4c90462e030f" alt="Data Pipeline Architecture"/>
 </p>
 
 <h2 align="center">// CORE COMPETENCIES & TECHNOLOGIES</h2>
@@ -36,18 +37,17 @@ Real-time Processing   [██████████████████�
 <img src="https://skillicons.dev/icons?i=python,java,scala,kafka,spark,flink,hadoop,aws,azure,gcp,kubernetes,docker,airflow,dbt,snowflake,postgresql,mongodb,tableau,powerbi,git,github,linux"/>
 </p>
 
-<h2 align="center">// GITHUB STATS</h2>
+<h2 align="center">// GITHUB ACTIVITY MONITOR</h2>
 <p align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=L16H7N1N65&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L16H7N1N65&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<h2 align="center">// ACTIVITY GRAPH</h2>
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=L16H7N1N65&theme=tokyo-night&hide_border=true"/>
 </p>
 
-<h2 align="center">// CONNECT WITH ME</h2>
+<h2 align="center">// SECURE COMMUNICATION CHANNEL</h2>
 <p align="center">
 <a href="mailto:linda.meghouche@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-222222?style=for-the-badge&logo=gmail"/>
