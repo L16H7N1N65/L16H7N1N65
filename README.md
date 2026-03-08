@@ -1,95 +1,57 @@
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=L16H7N1N65&fontSize=45&fontColor=ffffff"/>
+</div>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=700&color=00FFFF&center=true&vCenter=true&width=720&lines=booting+data+observatory...;initializing+distributed+data+services...;data+engineering+platform+online"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=700&center=true&vCenter=true&width=700&lines=initiating+data+observatory...;loading+dashboard+modules...;data+platform+monitoring+online"/>
 </p>
 
-<h2 align="center">SYSTEM STATUS</h2>
+<h2 align="center">// SYSTEM STATUS OVERVIEW</h2>
 
 <div align="center">
 
-![Data Ingestion](https://img.shields.io/badge/Data%20Ingestion-Kafka%20Online-00FFFF?style=for-the-badge&logo=apachekafka&logoColor=black)
-![Messaging](https://img.shields.io/badge/Messaging-RabbitMQ%20Active-FF00FF?style=for-the-badge&logo=rabbitmq&logoColor=black)
-![Search](https://img.shields.io/badge/Search-Apache%20Solr-00FFFF?style=for-the-badge&logo=apache&logoColor=black)
-![Storage](https://img.shields.io/badge/Storage-PostgreSQL%20Ready-FF00FF?style=for-the-badge&logo=postgresql&logoColor=black)
+[![Data Ingestion Status](https://img.shields.io/badge/Data%20Ingestion-ONLINE-brightgreen?style=for-the-badge&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
+[![Data Processing Status](https://img.shields.io/badge/Data%20Processing-HEALTHY-brightgreen?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org/)
+[![Data Storage Status](https://img.shields.io/badge/Data%20Storage-OPTIMIZED-blue?style=for-the-badge&logo=amazons3&logoColor=white)](https://aws.amazon.com/s3/)
+[![Real-time Analytics](https://img.shields.io/badge/Real--time%20Analytics-ACTIVE-brightgreen?style=for-the-badge&logo=apacheflink&logoColor=white)](https://flink.apache.org/)
 
 </div>
 
-<h2 align="center">PIPELINE METRICS</h2>
+<h2 align="center">// DATA PIPELINE METRICS</h2>
 
 <div align="center">
 
-![Latency](https://img.shields.io/badge/Latency-200ms-00FFFF?style=for-the-badge)
-![Throughput](https://img.shields.io/badge/Throughput-500k%20events/sec-FF00FF?style=for-the-badge)
-![Uptime](https://img.shields.io/badge/Uptime-99.8%25-00FFFF?style=for-the-badge&logo=linux&logoColor=black)
+[![Pipeline Latency](https://img.shields.io/badge/Latency-200ms-blue?style=for-the-badge&logo=speedtest&logoColor=white)](https://www.speedtest.net/)
+[![Data Throughput](https://img.shields.io/badge/Throughput-500k%2Fsec-blue?style=for-the-badge&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
+[![System Uptime](https://img.shields.io/badge/Uptime-99.8%25-brightgreen?style=for-the-badge&logo=linux&logoColor=white)](https://www.linux.org/)
 
 </div>
 
-
-
-<h2 align="center">DATA PIPELINE</h2>
-
+<h2 align="center">// DATA FLOW ARCHITECTURE</h2>
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
+<img src="https://github.com/L16H7N1N65/L16H7N1N65/assets/79063770/c0317a1a-fe42-42e7-bb2a-4c90462e030f" alt="Data Pipeline Architecture"/>
 </p>
 
-<div align="center">
-<pre>
-
-     Sources
-  Web / APIs / Feeds
-         │
-         ▼
-   Scrapy Crawlers
-         │
-         ▼
-   Kafka / RabbitMQ
-         │
-         ▼
-     Python ETL
-         │
- ┌───────┴────────┐
- ▼                ▼
-PostgreSQL     Apache Solr
- Data Store    Search Index
-      │             │
-      └───────┬─────┘
-              ▼
-           FastAPI
-              │
-              ▼
-     Applications / AI
-       Dashboards / RAG
-
-</pre>
-</div>
-
-<h2 align="center">STACK</h2>
-
+<h2 align="center">// CORE COMPETENCIES & TECHNOLOGIES</h2>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,kafka,rabbitmq,postgres,docker,kubernetes,linux,fastapi,github"/>
+<img src="https://skillicons.dev/icons?i=python,java,scala,kafka,spark,flink,hadoop,aws,azure,gcp,kubernetes,docker,airflow,dbt,snowflake,postgresql,mongodb,tableau,powerbi,git,github,linux"/>
 </p>
 
-<h2 align="center">GITHUB ACTIVITY</h2>
-
+<h2 align="center">// GITHUB METRICS & ACTIVITY</h2>
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=L16H7N1N65&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L16H7N1N65&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://metrics.lecoq.io/L16H7N1N65?template=classic&base.header=true&base.activity=true&base.community=true&base.repositories=true&base.metadata=true&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FParis&config.order=2&config.padding=0&config.animated=true&config.sections=header%2Cactivity%2Crepositories%2Ccommunity%2Cmetadata&config.octicon=true&config.twemoji=true&config.icons=true&config.layout=compact&config.display=block&config.align=center&config.width=700&config.height=200&config.colors.base=243B55&config.colors.text=ffffff&config.colors.border=141E30&config.colors.activity=brightgreen&config.colors.community=brightgreen&config.colors.repositories=blue&config.colors.metadata=blue&config.colors.icons=brightgreen&config.colors.title=ffffff&config.colors.link=brightgreen&config.colors.stat=ffffff&config.colors.rank=ffffff&config.colors.level=ffffff&config.colors.star=ffffff&config.colors.fork=ffffff&config.colors.issue=ffffff&config.colors.pr=ffffff&config.colors.commit=ffffff&config.colors.follower=ffffff&config.colors.contributor=ffffff&config.colors.discussion=ffffff&config.colors.sponsor=ffffff&config.colors.project=ffffff&config.colors.release=ffffff&config.colors.theme=dark" alt="GitHub Metrics"/>
+  <img src="https://metrics.lecoq.io/L16H7N1N65?template=classic&base.repositories=true&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FParis&config.order=2&config.padding=0&config.animated=true&config.sections=repositories&config.octicon=true&config.twemoji=true&config.icons=true&config.layout=compact&config.display=block&config.align=center&config.width=700&config.height=200&config.colors.base=243B55&config.colors.text=ffffff&config.colors.border=141E30&config.colors.activity=brightgreen&config.colors.community=brightgreen&config.colors.repositories=blue&config.colors.metadata=blue&config.colors.icons=brightgreen&config.colors.title=ffffff&config.colors.link=brightgreen&config.colors.stat=ffffff&config.colors.rank=ffffff&config.colors.level=ffffff&config.colors.star=ffffff&config.colors.fork=ffffff&config.colors.issue=ffffff&config.colors.pr=ffffff&config.colors.commit=ffffff&config.colors.follower=ffffff&config.colors.contributor=ffffff&config.colors.discussion=ffffff&config.colors.sponsor=ffffff&config.colors.project=ffffff&config.colors.release=ffffff&config.colors.theme=dark" alt="GitHub Repositories"/>
+  <img src="https://metrics.lecoq.io/L16H7N1N65?template=classic&base.activity=true&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FParis&config.order=2&config.padding=0&config.animated=true&config.sections=activity&config.octicon=true&config.twemoji=true&config.icons=true&config.layout=compact&config.display=block&config.align=center&config.width=700&config.height=200&config.colors.base=243B55&config.colors.text=ffffff&config.colors.border=141E30&config.colors.activity=brightgreen&config.colors.community=brightgreen&config.colors.repositories=blue&config.colors.metadata=blue&config.colors.icons=brightgreen&config.colors.title=ffffff&config.colors.link=brightgreen&config.colors.stat=ffffff&config.colors.rank=ffffff&config.colors.level=ffffff&config.colors.star=ffffff&config.colors.fork=ffffff&config.colors.issue=ffffff&config.colors.pr=ffffff&config.colors.commit=ffffff&config.colors.follower=ffffff&config.colors.contributor=ffffff&config.colors.discussion=ffffff&config.colors.sponsor=ffffff&config.colors.project=ffffff&config.colors.release=ffffff&config.colors.theme=dark" alt="GitHub Activity"/>
+  <img src="https://metrics.lecoq.io/L16H7N1N65?template=classic&base.languages=true&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FParis&config.order=2&config.padding=0&config.animated=true&config.sections=languages&config.octicon=true&config.twemoji=true&config.icons=true&config.layout=compact&config.display=block&config.align=center&config.width=700&config.height=200&config.colors.base=243B55&config.colors.text=ffffff&config.colors.border=141E30&config.colors.activity=brightgreen&config.colors.community=brightgreen&config.colors.repositories=blue&config.colors.metadata=blue&config.colors.icons=brightgreen&config.colors.title=ffffff&config.colors.link=brightgreen&config.colors.stat=ffffff&config.colors.rank=ffffff&config.colors.level=ffffff&config.colors.star=ffffff&config.colors.fork=ffffff&config.colors.issue=ffffff&config.colors.pr=ffffff&config.colors.commit=ffffff&config.colors.follower=ffffff&config.colors.contributor=ffffff&config.colors.discussion=ffffff&config.colors.sponsor=ffffff&config.colors.project=ffffff&config.colors.release=ffffff&config.colors.theme=dark" alt="Most Used Languages"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=L16H7N1N65&theme=react-dark&hide_border=true&color=00FFFF&line=FF00FF"/>
-</p>
-
-<h2 align="center">CONTACT</h2>
-
+<h2 align="center">// SECURE COMMUNICATION CHANNEL</h2>
 <p align="center">
 <a href="mailto:linda.meghouche@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0f0c29?style=for-the-badge&logo=gmail&logoColor=00FFFF"/>
+<img src="https://img.shields.io/badge/Gmail-222222?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://www.linkedin.com/in/lindamg/">
-<img src="https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=FF00FF"/>
+<img src="https://img.shields.io/badge/LinkedIn-222222?style=for-the-badge&logo=linkedin"/>
 </a>
 </p>
