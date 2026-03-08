@@ -36,9 +36,6 @@ Main interests:
 <img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209"/>
 </a>
 
-<a href="https://discord.com/users/1095557554920235108">
-<img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209"/>
-</a>
 
 <a href="https://www.linkedin.com/in/lindamg/">
 <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/>
