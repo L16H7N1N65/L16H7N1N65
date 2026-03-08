@@ -9,23 +9,18 @@ https://github.com/L16H7N1N65/L16H7N1N65/assets/79063770/c0317a1a-fe42-42e7-bb2a
 <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=40&duration=4000&pause=800&center=true&vCenter=true&width=500&lines=Bonjour;Hello;Hola;Ciao;Hallo;你好;こんにちは;안녕하세요;Здравствуйте;السلام عليكم;नमस्ते">
 </p>
 
-
-
-<br>
+---
 
 # ABOUT ME
 
-Data Engineer focused on **data pipelines, ETL systems, search infrastructure, distributed architectures, backend APIs, and AI-driven platforms**.
+Data Engineer building **data platforms, search systems, and AI-driven applications**.
 
-I design and build systems that ingest, process, normalize, index, and expose large volumes of data through scalable architectures.
-
-Main interests:
-
-- Data Engineering
-- Distributed Systems
-- Search Infrastructure
-- AI & RAG Systems
-- Platform Engineering
+Focus:
+- Data pipelines & ETL
+- Distributed systems
+- Search infrastructure
+- AI / RAG platforms
+- Cloud-native architectures
 
 ---
 
@@ -87,114 +82,39 @@ Main interests:
 
 ---
 
-# FEATURED PROJECTS
+# PROJECTS
 
-### Project X
-Refactoring and industrialization of a **large-scale patent data pipeline** including ingestion, normalization, indexing, and search infrastructure.
+**Data Platform Pipelines**  
+Scraping → ETL → Kafka / RabbitMQ → PostgreSQL → Solr indexing
 
-### MindEase
-AI-powered **mental health platform** integrating:
+**MindEase**  
+AI mental health platform with RAG pipelines and LLM integration.
 
-- Retrieval-Augmented Generation
-- vector search
-- LLM interaction
-- behavioral feedback loops
-
-### Real Estate AI Platform
-Data-driven real estate platform integrating:
-
-- property scrapers
-- valuation algorithms
-- AI agents
-- geospatial data pipelines
-
-### Data ETL Pipelines
-Large-scale ingestion pipelines using:
-
-- Scrapy
-- Python
-- Kafka / RabbitMQ
-- PostgreSQL
-- Solr indexing
+**Real Estate AI Platform**  
+Property data scraping, valuation models, and AI agents.
 
 ---
 
-# DATA PLATFORM ARCHITECTURE
+# DATA PLATFORM
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Data%20Platform%20Architecture&fontSize=35&fontColor=ffffff"/>
+</p>
 
-```mermaid
-flowchart LR
+<p align="center">
 
-subgraph Ingestion
-A[Web Sources]
-B[Scrapers / Crawlers]
-C[External APIs]
-end
+🕸️ Sources → Scrapers → ETL → Messaging → Storage → Search → APIs → Applications
 
-A --> B
-C --> B
+</p>
 
-subgraph Processing
-D[ETL Pipeline]
-E[Data Normalization]
-F[Data Enrichment]
-end
+<p align="center">
 
-B --> D
-D --> E
-E --> F
+![Kafka](https://img.shields.io/badge/Kafka-black?style=for-the-badge&logo=apachekafka)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-ff6600?style=for-the-badge&logo=rabbitmq)
+![Solr](https://img.shields.io/badge/Solr-d9411e?style=for-the-badge&logo=apachesolr)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 
-subgraph Messaging
-G[Kafka]
-H[RabbitMQ]
-end
-
-F --> G
-F --> H
-
-subgraph Storage
-I[PostgreSQL]
-J[Object Storage]
-end
-
-G --> I
-H --> I
-G --> J
-
-subgraph Search
-K[Apache Solr]
-end
-
-I --> K
-
-subgraph Services
-L[Backend APIs]
-end
-
-K --> L
-I --> L
-
-subgraph Applications
-M[Web Applications]
-N[AI / RAG Systems]
-end
-
-L --> M
-L --> N
-
-subgraph Infrastructure
-O[Docker]
-P[Kubernetes]
-Q[Argo CD]
-R[Linux]
-end
-
-O --> P
-P --> L
-Q --> P
-R --> O
-```
-
+</p>
 ---
 
 # AI / RAG PIPELINE 
