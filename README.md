@@ -14,6 +14,6 @@
 
 <br/><br/>
 
-<img src="neofetch.svg" width="520" alt="neofetch"/>
+<img src="" width="520" alt="neofetch"/>
 
 </div>
