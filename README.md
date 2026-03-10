@@ -14,7 +14,7 @@
 
 </div>
 
----
+
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=2000&pause=9999&color=00FF41&background=00000000&center=true&vCenter=true&multiline=true&width=660&height=120&lines=%3E+whoami;++HANDLE++++%3A+L16H7N1N65;++CLASS+++++%3A+Data+Engineer+%2F%2F+Pipeline+Architect;++FOCUS+++++%3A+ETL+%C2%B7+Search+%C2%B7+AI%2FRAG+%C2%B7+Distributed+Systems;++MISSION+++%3A+Ingest.+Transform.+Index.+Expose.+Scale." />
@@ -25,7 +25,7 @@
 ![](https://img.shields.io/badge/4-ACTIVE_PROJECTS-%2300FFFF?style=for-the-badge&labelColor=030303)
 </div>
 
----
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=9999&pause=9999&color=00FF41&background=00000000&center=false&width=300&lines=%5B+PIPELINE+ARCHITECTURE+%5D" />
 
@@ -48,7 +48,7 @@ flowchart LR
     PG & SLR --> API
 ```
 
----
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=9999&pause=9999&color=00FF41&background=00000000&center=false&width=220&lines=%5B+GRID+STATS+%5D" />
 
@@ -61,7 +61,7 @@ flowchart LR
 
 </div>
 
----
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=9999&pause=9999&color=FF003C&background=00000000&center=false&width=260&lines=%5B+ACTIVE+MISSIONS+%5D" />
 
@@ -75,7 +75,7 @@ flowchart LR
 | ![LIVE](https://img.shields.io/badge/LIVE-%2300FF41?style=flat-square&labelColor=030303) Property platform â€” scrapers Â· valuation Â· AI agents Â· geospatial | ![LIVE](https://img.shields.io/badge/LIVE-%2300FF41?style=flat-square&labelColor=030303) High-throughput ingestion â€” crawling Â· stream processing Â· 2.4M+ rec/day |
 | ![Scrapy](https://img.shields.io/badge/Scrapy-030303?style=flat-square&logo=scrapy&logoColor=00FF41) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-030303?style=flat-square&logo=postgresql&logoColor=00FFFF) ![Next.js](https://img.shields.io/badge/Next.js-030303?style=flat-square&logo=next.js&logoColor=00FF41) | ![Scrapy](https://img.shields.io/badge/Scrapy-030303?style=flat-square&logo=scrapy&logoColor=00FF41) ![Kafka](https://img.shields.io/badge/Kafka-030303?style=flat-square&logo=apachekafka&logoColor=FF003C) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-030303?style=flat-square&logo=rabbitmq&logoColor=FF9500) ![Solr](https://img.shields.io/badge/Solr-030303?style=flat-square&logo=apachesolr&logoColor=00FFFF) |
 
----
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=9999&pause=9999&color=FF9500&background=00000000&center=false&width=220&lines=%5B+SYSTEM+LOG+%5D" />
 
@@ -84,7 +84,7 @@ flowchart LR
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=L16H7N1N65&bg_color=030303&color=00FF41&line=00FF41&point=FF003C&area=true&area_color=003300&border_color=00FF41&custom_title=COMMIT+ACTIVITY"/>
 </div>
 
----
+
 
 <div align="center">
 
