@@ -12,8 +12,6 @@
 ![](https://img.shields.io/badge/ROLE-DATA__ENGINEER-%23FF003C?style=flat-square&labelColor=030303)
 ![](https://img.shields.io/badge/GRID-CONNECTED-%2300FFFF?style=flat-square&labelColor=030303)
 
-</div>
-
 ┌─[ neofetch ]──────────────────────────────────┐
 │                                               │
 │  handle   : L16H7N1N65                        │
@@ -37,3 +35,5 @@
 │                                               │
 └───────────────────────────────────────────────┘
 
+
+</div>
