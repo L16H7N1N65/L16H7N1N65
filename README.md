@@ -1,53 +1,41 @@
-
-markdown
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║    ██╗     ██╗ ██████╗ ██╗  ██╗███████╗███╗  ██╗██╗███╗  ██╗ ██████╗ ███████╗   ║
-║    ██║    ██╔╝██╔════╝ ██║  ██║╚══███╔╝████╗ ██║██║████╗ ██║██╔════╝ ██╔════╝   ║
-║    ██║   ██╔╝ ██║  ███╗███████║  ███╔╝ ██╔██╗██║██║██╔██╗██║███████╗ ███████╗   ║
-║    ██║  ██╔╝  ██║   ██║╚════██║ ███╔╝  ██║╚████║██║██║╚████║██╔═══╝ ╚════██║   ║
-║    ███████╔╝   ╚██████╔╝     ██║███████╗██║ ╚███║██║██║ ╚███║╚██████╗ ███████║   ║
-║    ╚══════╝     ╚═════╝      ╚═╝╚══════╝╚═╝  ╚══╝╚═╝╚═╝  ╚══╝ ╚═════╝ ╚══════╝   ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
+div align="center">
+  <img src="https://i.imgur.com/8b2zY6k.gif" width="600"/>
 </div>
 
 <div align="center">
 
-![](https://img.shields.io/badge/OS-Arch_Linux-%231793D1?style=flat-square&logo=archlinux&logoColor=white&labelColor=0d1117)
-![](https://img.shields.io/badge/ROLE-Data_Engineer-%23E2E8F0?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/STATUS-Online-%2322C55E?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/UPTIME-365d-%231793D1?style=flat-square&labelColor=0d1117)
+<img src="https://img.shields.io/badge/OS-Arch_Linux-D900FF?style=for-the-badge&logo=arch-linux&logoColor=white&labelColor=1a1b26">
+<img src="https://img.shields.io/badge/ROLE-Data_Engineer-00FFA3?style=for-the-badge&labelColor=1a1b26">
+<img src="https://img.shields.io/badge/STATUS-Online-D900FF?style=for-the-badge&logo=server&logoColor=white&labelColor=1a1b26">
+<img src="https://img.shields.io/badge/UPTIME-365d-00FFA3?style=for-the-badge&labelColor=1a1b26">
 
 </div>
 
 ---
 
+<div align="center">
+
 ```
-┌─[ neofetch ]─────────────────────────────────────────────────────────────────┐
-│                                                                               │
-│   ██╗     ██╗ ██████╗ ██╗  ██╗███████╗    ██████████╗                        │
-│   ██╔╝    ██║██╔════╝ ██║  ██║╚══███╔╝    ╚══██╔══██║    handle   : L16H7N1N65  │
-│   ██║    ██╔╝ ██║  ███╗███████║  ███╔╝        ██║  ██║    class    : Data Engineer  │
-│   ██║   ██╔╝  ██║   ██║╚════██║ ███╔╝         ██║  ██║    focus    : ETL · Search · RAG  │
-│   ██████╔╝    ╚██████╔╝     ██║███████╗        ██║  ██║    mission  : Ingest. Transform. Scale.  │
-│   ╚═════╝      ╚═════╝      ╚═╝╚══════╝       ╚═╝  ╚═╝                       │
-│                                                                               │
-│   OS      : Arch Linux x86_64          Shell   : zsh + tmux                  │
-│   WM      : i3wm                       Editor  : neovim                      │
-│   Stack   : Python · Kafka · Solr · K8s · PostgreSQL · FastAPI               │
-│   Uptime  : 365d 0h 0m                 Packages: 2.4M+ rec/day               │
-│                                                                               │
-└───────────────────────────────────────────────────────────────────────────────┘
+┌─[ neofetch ]──────────────────────────────────┐
+│                                                 │
+│   handle   : L16H7N1N65                         │
+│   class    : Data Engineer                      │
+│   focus    : ETL · Search · RAG                 │
+│   mission  : Ingest. Transform. Scale.          │
+│                                                 │
+│   OS      : Arch Linux x86_64                   │
+│   Shell   : zsh + tmux                          │
+│   Editor  : neovim                              │
+│   Stack   : Python · Kafka · Solr · K8s         │
+│                                                 │
+└─────────────────────────────────────────────────┘
 ```
 
+</div>
+
 ---
+
+<div align="center">
 
 ```
 ┌─[ pipeline.arch ]────────────────────────────────────────────────────────────┐
@@ -72,7 +60,11 @@ markdown
 └───────────────────────────────────────────────────────────────────────────────┘
 ```
 
+</div>
+
 ---
+
+<div align="center">
 
 ```
 ┌─[ htop ]──────────────────────────────────────────────────────────────────────┐
@@ -91,7 +83,11 @@ markdown
 └────────────────────────────────────────────────────────────────────────────────┘
 ```
 
+</div>
+
 ---
+
+<div align="center">
 
 ```
 ┌─[ projects.ls -la ]───────────────────────────────────────────────────────────┐
@@ -115,85 +111,46 @@ markdown
 └────────────────────────────────────────────────────────────────────────────────┘
 ```
 
+</div>
+
 ---
 
 <div align="center">
 
-```
-┌─[ github.stats ]──────────────────────────────────────────────────────────────┐
-```
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=L16H7N1N65&show_icons=true&theme=synthwave&bg_color=1a1b26&title_color=D900FF&text_color=00FFA3&icon_color=D900FF&border_color=00000000&border_radius=0&include_all_commits=true&count_private=true"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L16H7N1N65&layout=compact&theme=synthwave&bg_color=1a1b26&title_color=D900FF&text_color=00FFA3&border_color=00000000&border_radius=0&langs_count=6"/>
 
-</div>
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=L16H7N1N65&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=1793D1&text_color=c9d1d9&icon_color=1793D1&border_color=30363d&border_radius=0&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L16H7N1N65&layout=compact&theme=github_dark&bg_color=0d1117&title_color=1793D1&text_color=c9d1d9&border_color=30363d&border_radius=0&langs_count=6"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=L16H7N1N65&theme=github-dark-blue&background=0d1117&border=30363d&stroke=1793D1&ring=1793D1&fire=e05d44&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=1793D1&sideLabels=1793D1&dates=6e7681&border_radius=0"/>
-
-</div>
-
-<div align="center">
-
-```
-└────────────────────────────────────────────────────────────────────────────────┘
-```
+<img src="https://streak-stats.demolab.com?user=L16H7N1N65&theme=synthwave&background=1a1b26&border=00000000&stroke=D900FF&ring=D900FF&fire=00FFA3&currStreakNum=00FFA3&sideNums=00FFA3&currStreakLabel=D900FF&sideLabels=D900FF&dates=6e7681&border_radius=0"/>
 
 </div>
 
 ---
 
-```
-┌─[ trophy.ls ]──────────────────────────────────────────────────────────────────┐
-```
-
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=L16H7N1N65&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=L16H7N1N65&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7&border_radius=0"/>
+
 </div>
-
-```
-└────────────────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-```
-┌─[ activity.log ]───────────────────────────────────────────────────────────────┐
-```
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=L16H7N1N65&bg_color=0d1117&color=1793D1&line=1793D1&point=c9d1d9&area=true&area_color=0d2137&border_color=30363d&custom_title=COMMIT+ACTIVITY+LOG"/>
-</div>
-
-```
-└────────────────────────────────────────────────────────────────────────────────┘
-```
 
 ---
 
 <div align="center">
 
-```
-┌─[ contact ]────────────────────────────────────────────────────────────────────┐
-│                                                                                │
-│           $ ssh linda.meghouche@gmail.com                                      │
-│           $ curl https://linkedin.com/in/lindamg                               │
-│                                                                                │
-└────────────────────────────────────────────────────────────────────────────────┘
-```
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=L16H7N1N65&bg_color=1a1b26&color=00FFA3&line=D900FF&point=00FFA3&area=true&area_color=1a1b26&border_color=00000000&custom_title=COMMIT+ACTIVITY+LOG"/>
 
-<a href="mailto:linda.meghouche@gmail.com"><img src="https://img.shields.io/badge/EMAIL-linda.meghouche%40gmail.com-%231793D1?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
+</div>
+
+---
+
+<div align="center">
+
+<a href="mailto:linda.meghouche@gmail.com"><img src="https://img.shields.io/badge/EMAIL-linda.meghouche%40gmail.com-D900FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b26"/></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/lindamg/"><img src="https://img.shields.io/badge/LINKEDIN-lindamg-%231793D1?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://www.linkedin.com/in/lindamg/"><img src="https://img.shields.io/badge/LINKEDIN-lindamg-00FFA3?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b26"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=L16H7N1N65&label=PROFILE+VIEWS&color=1793D1&style=flat-square&labelColor=0d1117"/>
+<img src="https://komarev.com/ghpvc/?username=L16H7N1N65&label=PROFILE+VIEWS&color=D900FF&style=for-the-badge&labelColor=1a1b26"/>
 
 <br/><br/>
 
