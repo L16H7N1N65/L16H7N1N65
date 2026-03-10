@@ -12,6 +12,31 @@
 ![](https://img.shields.io/badge/ROLE-DATA__ENGINEER-%23FF003C?style=flat-square&labelColor=030303)
 ![](https://img.shields.io/badge/GRID-CONNECTED-%2300FFFF?style=flat-square&labelColor=030303)
 
+<br/><br/>
 
+```
+â”Œâ”€[ neofetch ]â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+â”‚                                               â”‚
+â”‚  handle   : L16H7N1N65                        â”‚
+â”‚  class    : Data Engineer                     â”‚
+â”‚  focus    : ETL Â· Search Â· RAG                â”‚
+â”‚  mission  : Ingest. Transform. Scale.         â”‚
+â”‚                                               â”‚
+â”‚  OS       : Ubuntu Linux x86_64               â”‚
+â”‚  Shell    : zsh + tmux                        â”‚
+â”‚  WM       : i3wm                              â”‚
+â”‚  Editor   : neovim                            â”‚
+â”‚                                               â”‚
+â”‚  Stack    : Python                            â”‚
+â”‚             Kafka Â· Zookeeper                 â”‚
+â”‚             Solr                              â”‚
+â”‚             PostgreSQL                        â”‚
+â”‚             Kubernetes                        â”‚
+â”‚                                               â”‚
+â”‚  Uptime   : 365d                              â”‚
+â”‚  Throughput : 2.4M+ rec/day                   â”‚
+â”‚                                               â”‚
+â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+```
 
 </div>
