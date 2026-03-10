@@ -14,7 +14,7 @@
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=flat-square&labelColor=030303)
 ![Mode](https://img.shields.io/badge/ROLE-DATA__ENGINEER-FF003C?style=flat-square&labelColor=030303)
 ![Grid](https://img.shields.io/badge/GRID-CONNECTED-00FFFF?style=flat-square&labelColor=030303)
-![Open](https://img.shields.io/badge/OPEN__TO-OPPORTUNITIES-FF9500?style=flat-square&labelColor=030303)
+
 
 </div>
 
