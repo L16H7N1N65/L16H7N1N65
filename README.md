@@ -15,19 +15,12 @@
 
 </div>
 
----
 
 <!-- WHOAMI -->
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=2000&pause=9999&color=00FF41&background=00000000&center=true&vCenter=true&multiline=true&width=660&height=120&lines=%3E+whoami;++HANDLE++++%3A+L16H7N1N65;++CLASS+++++%3A+Data+Engineer+%2F%2F+Pipeline+Architect;++FOCUS+++++%3A+ETL+%C2%B7+Search+%C2%B7+AI%2FRAG+%C2%B7+Distributed+Systems;++MISSION+++%3A+Ingest.+Transform.+Index.+Expose.+Scale." />
 
 <br/>
-
-![](https://img.shields.io/badge/4%2B_YRS-EXPERIENCE-%2300FF41?style=for-the-badge&labelColor=030303)
-![](https://img.shields.io/badge/2.4M%2B-RECORDS%2FDAY-%23FF003C?style=for-the-badge&labelColor=030303)
-![](https://img.shields.io/badge/4-ACTIVE_PROJECTS-%2300FFFF?style=for-the-badge&labelColor=030303)
-</div>
-
 
 
 <!-- PIPELINE -->
@@ -85,7 +78,7 @@ flowchart LR
 
 </div>
 
----
+
 
 <!-- TROPHIES -->
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=9999&pause=9999&color=FF9500&background=00000000&center=false&width=220&lines=%5B+SYSTEM+LOG+%5D" />
@@ -95,7 +88,6 @@ flowchart LR
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=L16H7N1N65&bg_color=030303&color=00FF41&line=00FF41&point=FF003C&area=true&area_color=003300&border_color=00FF41&custom_title=COMMIT+ACTIVITY"/>
 </div>
 
----
 
 <!-- CONTACT -->
 <div align="center">
