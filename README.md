@@ -12,28 +12,6 @@
 ![](https://img.shields.io/badge/ROLE-DATA__ENGINEER-%23FF003C?style=flat-square&labelColor=030303)
 ![](https://img.shields.io/badge/GRID-CONNECTED-%2300FFFF?style=flat-square&labelColor=030303)
 
-┌─[ neofetch ]──────────────────────────────────┐
-│                                               │
-│  handle   : L16H7N1N65                        │
-│  class    : Data Engineer                     │
-│  focus    : ETL · Search · RAG                │
-│  mission  : Ingest. Transform. Scale.         │
-│                                               │
-│  OS      : Ubuntu Linux x86_64                │
-│  Shell   : zsh + tmux                         │
-│  WM      : i3wm                               │
-│  Editor  : neovim                             │
-│                                               │
-│  Stack   : Python                             │
-│            Kafka · Zookeeper                  │
-│            Solr                               │
-│            PostgreSQL                         │
-│            Kubernetes                         │
-│                                               │
-│  Uptime  : 365d                               │
-│  Throughput : 2.4M+ rec/day                   │
-│                                               │
-└───────────────────────────────────────────────┘
 
 
 </div>
