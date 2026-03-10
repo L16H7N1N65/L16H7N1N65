@@ -14,6 +14,6 @@
 
 <br/><br/>
 
-<img src="https://jumpshare.com/s/HhYaZQ4zICdGQyEMwXrn" width="520" alt="neofetch"/>
+<img src="https://www.svgviewer.dev/s/8TYonqFf" width="520" alt="neofetch"/>
 
 </div>
