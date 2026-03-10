@@ -8,7 +8,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&duration=600&pause=200&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=LINDA+MEGHOUCHE;DATA+ENGINEER;%2F%2F+ARCHITECT+OF+THE+GRID" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&duration=600&pause=200&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=L16H7N1N65;DATA+ENGINEER;%2F%2F+ARCHITECT+OF+THE+GRID" />
 </a>
 
 <br/>
