@@ -1,104 +1,204 @@
-<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=12&duration=350&pause=60&color=00FF41&background=00000000&center=true&vCenter=true&width=640&lines=%5BSYS%3A%3ABOOT%5D+Initializing+neural+interface...;%5BSYS%3A%3ABOOT%5D+Loading+data+pipeline+modules...;%5BSYS%3A%3ABOOT%5D+Connecting+to+distributed+grid...;%5BSYS%3A%3ABOOT%5D+RAG+systems+online...;%5BSYS%3A%3ABOOT%5D+All+systems+nominal.+Welcome." />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=46&duration=600&pause=200&color=00FF41&background=00000000&center=true&vCenter=true&width=740&lines=L16H7N1N65;DATA+ENGINEER;ARCHITECT+OF+THE+GRID" />
-
-<br/>
-
-![](https://img.shields.io/badge/STATUS-ONLINE-%2300FF41?style=flat-square&labelColor=030303)
-![](https://img.shields.io/badge/ROLE-DATA__ENGINEER-%23FF003C?style=flat-square&labelColor=030303)
-![](https://img.shields.io/badge/GRID-CONNECTED-%2300FFFF?style=flat-square&labelColor=030303)
-
-</div>
-
-
+markdown
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=2000&pause=9999&color=00FF41&background=00000000&center=true&vCenter=true&multiline=true&width=660&height=120&lines=%3E+whoami;++HANDLE++++%3A+L16H7N1N65;++CLASS+++++%3A+Data+Engineer+%2F%2F+Pipeline+Architect;++FOCUS+++++%3A+ETL+%C2%B7+Search+%C2%B7+AI%2FRAG+%C2%B7+Distributed+Systems;++MISSION+++%3A+Ingest.+Transform.+Index.+Expose.+Scale." />
-<br/>
 
-</div>
-
-
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=9999&pause=9999&color=00FF41&background=00000000&center=false&width=300&lines=%5B+PIPELINE+ARCHITECTURE+%5D" />
-
-```mermaid
-%%{init:{'theme':'dark','themeVariables':{'primaryColor':'#0d0d0d','primaryTextColor':'#00FF41','primaryBorderColor':'#00FF41','lineColor':'#00FF41','edgeLabelBackground':'#030303','clusterBkg':'#0d0d0d'}}}%%
-flowchart LR
-    WEB(["WEB SOURCES\nscrapers"])
-    ETL(["ETL PIPELINE\ntransform"])
-    KFK(["KAFKA\nstreaming"])
-    RMQ(["RABBITMQ\nqueue"])
-    PRC(["PROCESSING\nnormalize"])
-    PG(["POSTGRES\nstore"])
-    SLR(["SOLR\nsearch"])
-    API(["API / RAG\nexpose"])
-
-    WEB --> ETL
-    ETL --> KFK & RMQ
-    KFK & RMQ --> PRC
-    PRC --> PG & SLR
-    PG & SLR --> API
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║    ██╗     ██╗ ██████╗ ██╗  ██╗███████╗███╗  ██╗██╗███╗  ██╗ ██████╗ ███████╗   ║
+║    ██║    ██╔╝██╔════╝ ██║  ██║╚══███╔╝████╗ ██║██║████╗ ██║██╔════╝ ██╔════╝   ║
+║    ██║   ██╔╝ ██║  ███╗███████║  ███╔╝ ██╔██╗██║██║██╔██╗██║███████╗ ███████╗   ║
+║    ██║  ██╔╝  ██║   ██║╚════██║ ███╔╝  ██║╚████║██║██║╚████║██╔═══╝ ╚════██║   ║
+║    ███████╔╝   ╚██████╔╝     ██║███████╗██║ ╚███║██║██║ ╚███║╚██████╗ ███████║   ║
+║    ╚══════╝     ╚═════╝      ╚═╝╚══════╝╚═╝  ╚══╝╚═╝╚═╝  ╚══╝ ╚═════╝ ╚══════╝   ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=9999&pause=9999&color=00FF41&background=00000000&center=false&width=220&lines=%5B+GRID+STATS+%5D" />
+</div>
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=L16H7N1N65&show_icons=true&theme=chartreuse-dark&bg_color=030303&title_color=00FF41&text_color=00CC33&icon_color=FF003C&border_color=00FF41&border_radius=4&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L16H7N1N65&layout=compact&theme=chartreuse-dark&bg_color=030303&title_color=00FF41&text_color=00CC33&border_color=00FF41&border_radius=4&langs_count=6"/>
-
-<img src="https://streak-stats.demolab.com?user=L16H7N1N65&theme=chartreuse-dark&background=030303&border=00FF41&stroke=00FF41&ring=FF003C&fire=FF003C&currStreakNum=00FF41&sideNums=00CC33&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=006600&border_radius=4"/>
+![](https://img.shields.io/badge/OS-Arch_Linux-%231793D1?style=flat-square&logo=archlinux&logoColor=white&labelColor=0d1117)
+![](https://img.shields.io/badge/ROLE-Data_Engineer-%23E2E8F0?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/STATUS-Online-%2322C55E?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/UPTIME-365d-%231793D1?style=flat-square&labelColor=0d1117)
 
 </div>
 
+---
 
+```
+┌─[ neofetch ]─────────────────────────────────────────────────────────────────┐
+│                                                                               │
+│   ██╗     ██╗ ██████╗ ██╗  ██╗███████╗    ██████████╗                        │
+│   ██╔╝    ██║██╔════╝ ██║  ██║╚══███╔╝    ╚══██╔══██║    handle   : L16H7N1N65  │
+│   ██║    ██╔╝ ██║  ███╗███████║  ███╔╝        ██║  ██║    class    : Data Engineer  │
+│   ██║   ██╔╝  ██║   ██║╚════██║ ███╔╝         ██║  ██║    focus    : ETL · Search · RAG  │
+│   ██████╔╝    ╚██████╔╝     ██║███████╗        ██║  ██║    mission  : Ingest. Transform. Scale.  │
+│   ╚═════╝      ╚═════╝      ╚═╝╚══════╝       ╚═╝  ╚═╝                       │
+│                                                                               │
+│   OS      : Arch Linux x86_64          Shell   : zsh + tmux                  │
+│   WM      : i3wm                       Editor  : neovim                      │
+│   Stack   : Python · Kafka · Solr · K8s · PostgreSQL · FastAPI               │
+│   Uptime  : 365d 0h 0m                 Packages: 2.4M+ rec/day               │
+│                                                                               │
+└───────────────────────────────────────────────────────────────────────────────┘
+```
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=9999&pause=9999&color=FF003C&background=00000000&center=false&width=260&lines=%5B+ACTIVE+MISSIONS+%5D" />
+---
 
-| `â—ˆ PROJECT X` | `â—ˆ MINDEASE` |
-|:---|:---|
-| ![LIVE](https://img.shields.io/badge/LIVE-%2300FF41?style=flat-square&labelColor=030303) Patent data pipeline â€” ingestion Â· normalization Â· indexing Â· search | ![LIVE](https://img.shields.io/badge/LIVE-%2300FF41?style=flat-square&labelColor=030303) AI mental health platform â€” RAG Â· vector search Â· LLM Â· feedback loops |
-| ![Python](https://img.shields.io/badge/Python-030303?style=flat-square&logo=python&logoColor=00FF41) ![Kafka](https://img.shields.io/badge/Kafka-030303?style=flat-square&logo=apachekafka&logoColor=FF003C) ![Solr](https://img.shields.io/badge/Solr-030303?style=flat-square&logo=apachesolr&logoColor=00FFFF) ![K8s](https://img.shields.io/badge/K8s-030303?style=flat-square&logo=kubernetes&logoColor=FF9500) | ![FastAPI](https://img.shields.io/badge/FastAPI-030303?style=flat-square&logo=fastapi&logoColor=00FF41) ![React](https://img.shields.io/badge/React-030303?style=flat-square&logo=react&logoColor=00FFFF) ![Python](https://img.shields.io/badge/Python-030303?style=flat-square&logo=python&logoColor=00FF41) |
+```
+┌─[ pipeline.arch ]────────────────────────────────────────────────────────────┐
+│                                                                               │
+│   WEB SOURCES          ETL PIPELINE         MESSAGE LAYER                    │
+│   ┌──────────┐         ┌──────────┐         ┌──────────┐  ┌──────────┐      │
+│   │ scrapers │──────▶  │transform │──────▶  │  kafka   │  │ rabbitmq │      │
+│   └──────────┘         └──────────┘         └────┬─────┘  └────┬─────┘      │
+│                                                   │             │            │
+│                                             ┌─────▼─────────────▼────┐       │
+│                                             │    PROCESSING NODE      │       │
+│                                             │    normalize · enrich   │       │
+│                                             └──────────┬─────────────┘       │
+│                                                        │                     │
+│                              ┌──────────────┬──────────▼──────┐              │
+│                              │              │                 │              │
+│                         ┌────▼─────┐  ┌────▼─────┐    ┌──────▼──────┐      │
+│                         │ postgres │  │   solr   │    │  API / RAG  │      │
+│                         │  store   │  │  search  │    │   expose    │      │
+│                         └──────────┘  └──────────┘    └─────────────┘      │
+│                                                                               │
+└───────────────────────────────────────────────────────────────────────────────┘
+```
 
-| `â—ˆ REAL ESTATE AI` | `â—ˆ ETL PIPELINES` |
-|:---|:---|
-| ![LIVE](https://img.shields.io/badge/LIVE-%2300FF41?style=flat-square&labelColor=030303) Property platform â€” scrapers Â· valuation Â· AI agents Â· geospatial | ![LIVE](https://img.shields.io/badge/LIVE-%2300FF41?style=flat-square&labelColor=030303) High-throughput ingestion â€” crawling Â· stream processing Â· 2.4M+ rec/day |
-| ![Scrapy](https://img.shields.io/badge/Scrapy-030303?style=flat-square&logo=scrapy&logoColor=00FF41) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-030303?style=flat-square&logo=postgresql&logoColor=00FFFF) ![Next.js](https://img.shields.io/badge/Next.js-030303?style=flat-square&logo=next.js&logoColor=00FF41) | ![Scrapy](https://img.shields.io/badge/Scrapy-030303?style=flat-square&logo=scrapy&logoColor=00FF41) ![Kafka](https://img.shields.io/badge/Kafka-030303?style=flat-square&logo=apachekafka&logoColor=FF003C) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-030303?style=flat-square&logo=rabbitmq&logoColor=FF9500) ![Solr](https://img.shields.io/badge/Solr-030303?style=flat-square&logo=apachesolr&logoColor=00FFFF) |
+---
 
+```
+┌─[ htop ]──────────────────────────────────────────────────────────────────────┐
+│                                                                                │
+│  CPU  [██████████████████████████░░░░░░░]  73%    MEM  [████████████░░░░░░]  │
+│  I/O  [█████████████████████████████░░░░]  87%    NET  [███████████████░░░░]  │
+│                                                                                │
+│  PID    PROCESS               STATUS      THROUGHPUT                          │
+│  ─────────────────────────────────────────────────────                        │
+│  0001   etl-pipeline          ● running   2.4M  rec/day                       │
+│  0002   kafka-broker          ● running   12K   msg/sec                       │
+│  0003   solr-indexer          ● running   98%   uptime                        │
+│  0004   rag-api               ● running   <50ms p99 latency                   │
+│  0005   k8s-scheduler         ● running   14    pods active                   │
+│                                                                                │
+└────────────────────────────────────────────────────────────────────────────────┘
+```
 
+---
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=9999&pause=9999&color=FF9500&background=00000000&center=false&width=220&lines=%5B+SYSTEM+LOG+%5D" />
+```
+┌─[ projects.ls -la ]───────────────────────────────────────────────────────────┐
+│                                                                                │
+│  drwxr-xr-x  PROJECT X          [LIVE]  Patent data pipeline                 │
+│  │           ├── ingestion · normalization · indexing · search                │
+│  │           └── Python  Kafka  Solr  K8s                                     │
+│                                                                                │
+│  drwxr-xr-x  MINDEASE           [LIVE]  AI mental health platform             │
+│  │           ├── RAG · vector search · LLM · feedback loops                  │
+│  │           └── FastAPI  React  Python                                        │
+│                                                                                │
+│  drwxr-xr-x  REAL ESTATE AI     [LIVE]  Property intelligence platform        │
+│  │           ├── scrapers · valuation · AI agents · geospatial                │
+│  │           └── Scrapy  PostgreSQL  Next.js                                  │
+│                                                                                │
+│  drwxr-xr-x  ETL PIPELINES      [LIVE]  High-throughput ingestion             │
+│              ├── crawling · stream processing · 2.4M+ rec/day                 │
+│              └── Scrapy  Kafka  RabbitMQ  Solr                                │
+│                                                                                │
+└────────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=L16H7N1N65&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=L16H7N1N65&bg_color=030303&color=00FF41&line=00FF41&point=FF003C&area=true&area_color=003300&border_color=00FF41&custom_title=COMMIT+ACTIVITY"/>
+
+```
+┌─[ github.stats ]──────────────────────────────────────────────────────────────┐
+```
+
 </div>
 
+<div align="center">
 
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=L16H7N1N65&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=1793D1&text_color=c9d1d9&icon_color=1793D1&border_color=30363d&border_radius=0&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L16H7N1N65&layout=compact&theme=github_dark&bg_color=0d1117&title_color=1793D1&text_color=c9d1d9&border_color=30363d&border_radius=0&langs_count=6"/>
+
+</div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=9999&pause=9999&color=00FFFF&background=00000000&center=true&width=220&lines=%5B+NEURAL+LINK+%5D" />
+<img src="https://streak-stats.demolab.com?user=L16H7N1N65&theme=github-dark-blue&background=0d1117&border=30363d&stroke=1793D1&ring=1793D1&fire=e05d44&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=1793D1&sideLabels=1793D1&dates=6e7681&border_radius=0"/>
 
-<br/>
+</div>
 
-<a href="mailto:linda.meghouche@gmail.com"><img src="https://img.shields.io/badge/GMAIL-030303?style=for-the-badge&logo=gmail&logoColor=00FF41"/></a>
+<div align="center">
+
+```
+└────────────────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+```
+┌─[ trophy.ls ]──────────────────────────────────────────────────────────────────┐
+```
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=L16H7N1N65&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+</div>
+
+```
+└────────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+```
+┌─[ activity.log ]───────────────────────────────────────────────────────────────┐
+```
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=L16H7N1N65&bg_color=0d1117&color=1793D1&line=1793D1&point=c9d1d9&area=true&area_color=0d2137&border_color=30363d&custom_title=COMMIT+ACTIVITY+LOG"/>
+</div>
+
+```
+└────────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+<div align="center">
+
+```
+┌─[ contact ]────────────────────────────────────────────────────────────────────┐
+│                                                                                │
+│           $ ssh linda.meghouche@gmail.com                                      │
+│           $ curl https://linkedin.com/in/lindamg                               │
+│                                                                                │
+└────────────────────────────────────────────────────────────────────────────────┘
+```
+
+<a href="mailto:linda.meghouche@gmail.com"><img src="https://img.shields.io/badge/EMAIL-linda.meghouche%40gmail.com-%231793D1?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/lindamg/"><img src="https://img.shields.io/badge/LINKEDIN-030303?style=for-the-badge&logo=linkedin&logoColor=00FF41"/></a>
+<a href="https://www.linkedin.com/in/lindamg/"><img src="https://img.shields.io/badge/LINKEDIN-lindamg-%231793D1?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=L16H7N1N65&label=GRID+VISITORS&color=00FF41&style=flat-square&labelColor=030303"/>
+<img src="https://komarev.com/ghpvc/?username=L16H7N1N65&label=PROFILE+VIEWS&color=1793D1&style=flat-square&labelColor=0d1117"/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=11&duration=3000&pause=600&color=006600&background=00000000&center=true&vCenter=true&width=500&lines=%5BSYS%5D+Session+terminated.+Connection+closed.;%5BSYS%5D+See+you+on+the+grid..." />
+```
+[ session terminated — connection closed ]
+```
 
 </div>
