@@ -1,14 +1,15 @@
 <div align="center">
 
-<!-- GLITCH HEADER BANNER -->
+<!-- BOOT SEQUENCE -->
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=14&duration=400&pause=80&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=%5BSYS%3A%3ABOOT%5D+Initializing+neural+interface...;%5BSYS%3A%3ABOOT%5D+Loading+data+pipeline+modules...;%5BSYS%3A%3ABOOT%5D+Connecting+to+distributed+grid...;%5BSYS%3A%3ABOOT%5D+RAG+systems+online...;%5BSYS%3A%3ABOOT%5D+All+systems+operational.+Welcome." />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=13&duration=400&pause=80&color=00FF41&background=00000000&center=true&vCenter=true&width=620&lines=%5BSYS%3A%3ABOOT%5D+Initializing+neural+interface...;%5BSYS%3A%3ABOOT%5D+Loading+data+pipeline+modules...;%5BSYS%3A%3ABOOT%5D+Connecting+to+distributed+grid...;%5BSYS%3A%3ABOOT%5D+RAG+systems+online...;%5BSYS%3A%3ABOOT%5D+All+systems+nominal.+Welcome." />
 </a>
 
 <br/>
 
+<!-- MAIN TITLE -->
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&duration=600&pause=200&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=L16H7N1N65;DATA+ENGINEER;%2F%2F+ARCHITECT+OF+THE+GRID" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=600&pause=200&color=00FF41&background=00000000&center=true&vCenter=true&width=720&lines=L16H7N1N65;DATA+ENGINEER;%2F%2F+ARCHITECT+OF+THE+GRID" />
 </a>
 
 <br/>
@@ -17,197 +18,163 @@
 <svg width="800" height="160" viewBox="0 0 800 160" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
-      .pipe-bg { fill: #0a0a0a; }
-      .node { fill: #0d0d0d; stroke: #00FF41; stroke-width: 1.5; rx: 4; }
-      .node-hot { fill: #0d0d0d; stroke: #FF003C; stroke-width: 1.5; }
-      .node-cyan { fill: #0d0d0d; stroke: #00FFFF; stroke-width: 1.5; }
-      .label { fill: #00FF41; font-family: 'Share Tech Mono', monospace; font-size: 9px; text-anchor: middle; }
-      .label-red { fill: #FF003C; font-family: 'Share Tech Mono', monospace; font-size: 9px; text-anchor: middle; }
-      .label-cyan { fill: #00FFFF; font-family: 'Share Tech Mono', monospace; font-size: 9px; text-anchor: middle; }
-      .line { stroke: #00FF41; stroke-width: 1; fill: none; stroke-dasharray: 4 3; opacity: 0.5; }
-      .line-red { stroke: #FF003C; stroke-width: 1; fill: none; stroke-dasharray: 4 3; opacity: 0.5; }
-      .dot { fill: #00FF41; }
-      .dot-red { fill: #FF003C; }
-      .dot-cyan { fill: #00FFFF; }
-      .scanline { fill: none; stroke: #00FF41; stroke-width: 0.3; opacity: 0.07; }
-      @keyframes flow1 { 0% { stroke-dashoffset: 50; } 100% { stroke-dashoffset: 0; } }
-      @keyframes flow2 { 0% { stroke-dashoffset: 50; } 100% { stroke-dashoffset: 0; } }
-      @keyframes flow3 { 0% { stroke-dashoffset: 50; } 100% { stroke-dashoffset: 0; } }
-      @keyframes moveDot1 { 0% { cx: 128; } 100% { cx: 198; } }
-      @keyframes moveDot2 { 0% { cx: 268; } 100% { cx: 338; } }
-      @keyframes moveDot3 { 0% { cx: 408; } 100% { cx: 478; } }
-      @keyframes moveDot4 { 0% { cx: 548; } 100% { cx: 618; } }
-      @keyframes moveDot5 { 0% { cx: 688; } 100% { cx: 758; } }
-      @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.3; } }
-      @keyframes glitch { 0%,95%,100% { transform: translate(0); } 96% { transform: translate(-2px, 1px); } 97% { transform: translate(2px, -1px); } 98% { transform: translate(-1px, 2px); } }
-      .anim-flow1 { animation: flow1 1.2s linear infinite; }
-      .anim-flow2 { animation: flow2 1.2s linear infinite 0.4s; }
-      .anim-flow3 { animation: flow3 1.2s linear infinite 0.8s; }
-      .anim-pulse { animation: pulse 2s ease-in-out infinite; }
-      .anim-glitch { animation: glitch 4s steps(1) infinite; }
+      .label    { fill: #00FF41; font-family: 'Share Tech Mono', monospace; font-size: 9px; text-anchor: middle; }
+      .label-r  { fill: #FF003C; font-family: 'Share Tech Mono', monospace; font-size: 9px; text-anchor: middle; }
+      .label-c  { fill: #00FFFF; font-family: 'Share Tech Mono', monospace; font-size: 9px; text-anchor: middle; }
+      .label-o  { fill: #FF9500; font-family: 'Share Tech Mono', monospace; font-size: 9px; text-anchor: middle; }
+      .sub      { font-family: 'Share Tech Mono', monospace; font-size: 7px; text-anchor: middle; opacity: 0.6; }
+      .scanline { fill: none; stroke: #00FF41; stroke-width: 0.3; opacity: 0.06; }
+      @keyframes pulse  { 0%,100%{opacity:1}  50%{opacity:0.25} }
+      @keyframes flow   { from{stroke-dashoffset:28} to{stroke-dashoffset:0} }
+      @keyframes glitch { 0%,94%,100%{transform:translate(0,0)} 95%{transform:translate(-2px,1px)} 97%{transform:translate(2px,-1px)} 99%{transform:translate(-1px,2px)} }
+      .pulse  { animation: pulse 2s ease-in-out infinite; }
+      .flow1  { animation: flow 1.1s linear infinite; }
+      .flow2  { animation: flow 1.1s linear infinite 0.37s; }
+      .flow3  { animation: flow 1.1s linear infinite 0.74s; }
+      .glitch { animation: glitch 5s steps(1) infinite; }
     </style>
-    <!-- Glow filters -->
-    <filter id="glow-green">
-      <feGaussianBlur stdDeviation="2" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <filter id="glow-red">
-      <feGaussianBlur stdDeviation="2" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <filter id="glow-cyan">
-      <feGaussianBlur stdDeviation="2.5" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <!-- Animated data particle -->
-    <circle id="particle" r="3" fill="#00FF41" filter="url(#glow-green)"/>
+    <filter id="gg"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="gr"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="gc"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="go"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
   </defs>
 
-  <!-- Background -->
+  <!-- BG & scanlines -->
   <rect width="800" height="160" fill="#030303" rx="6"/>
-  <!-- Scanlines -->
-  <line x1="0" y1="20" x2="800" y2="20" class="scanline"/>
-  <line x1="0" y1="40" x2="800" y2="40" class="scanline"/>
-  <line x1="0" y1="60" x2="800" y2="60" class="scanline"/>
-  <line x1="0" y1="80" x2="800" y2="80" class="scanline"/>
+  <line x1="0" y1="20"  x2="800" y2="20"  class="scanline"/>
+  <line x1="0" y1="40"  x2="800" y2="40"  class="scanline"/>
+  <line x1="0" y1="60"  x2="800" y2="60"  class="scanline"/>
+  <line x1="0" y1="80"  x2="800" y2="80"  class="scanline"/>
   <line x1="0" y1="100" x2="800" y2="100" class="scanline"/>
   <line x1="0" y1="120" x2="800" y2="120" class="scanline"/>
   <line x1="0" y1="140" x2="800" y2="140" class="scanline"/>
 
-  <!-- Corner brackets -->
-  <polyline points="4,20 4,4 20,4" stroke="#00FF41" stroke-width="1.5" fill="none" opacity="0.7"/>
-  <polyline points="780,4 796,4 796,20" stroke="#00FF41" stroke-width="1.5" fill="none" opacity="0.7"/>
-  <polyline points="4,140 4,156 20,156" stroke="#00FF41" stroke-width="1.5" fill="none" opacity="0.7"/>
-  <polyline points="780,156 796,156 796,140" stroke="#00FF41" stroke-width="1.5" fill="none" opacity="0.7"/>
+  <!-- Corners -->
+  <polyline points="4,20 4,4 20,4"           stroke="#00FF41" stroke-width="1.5" fill="none" opacity="0.6"/>
+  <polyline points="780,4 796,4 796,20"      stroke="#00FF41" stroke-width="1.5" fill="none" opacity="0.6"/>
+  <polyline points="4,140 4,156 20,156"      stroke="#00FF41" stroke-width="1.5" fill="none" opacity="0.6"/>
+  <polyline points="780,156 796,156 796,140" stroke="#00FF41" stroke-width="1.5" fill="none" opacity="0.6"/>
 
-  <!-- Header text -->
-  <text x="400" y="22" fill="#00FF41" font-family="Share Tech Mono" font-size="9" text-anchor="middle" opacity="0.6">// DATA PIPELINE ARCHITECTURE v2.4.1 // REAL-TIME STREAM PROCESSING //</text>
+  <!-- Header -->
+  <text x="400" y="22" fill="#00FF41" font-family="Share Tech Mono" font-size="8.5" text-anchor="middle" opacity="0.55">// DATA PIPELINE ARCHITECTURE v2.4.1 â€” REAL-TIME STREAM PROCESSING //</text>
 
-  <!-- PIPELINE NODES -->
-  <!-- Node 1: WEB SOURCES -->
-  <rect x="18" y="52" width="90" height="56" rx="3" class="node" filter="url(#glow-green)"/>
-  <text x="63" y="74" class="label">[ WEB ]</text>
-  <text x="63" y="87" class="label">SOURCES</text>
-  <text x="63" y="100" fill="#00FF41" font-family="Share Tech Mono" font-size="7" text-anchor="middle" opacity="0.6">scrapers/crawlers</text>
-  <circle cx="18" cy="80" r="3" fill="#00FF41" class="anim-pulse" filter="url(#glow-green)"/>
+  <!-- NODE 1: WEB SOURCES -->
+  <rect x="18" y="50" width="90" height="58" rx="3" fill="#0d0d0d" stroke="#00FF41" stroke-width="1.5" filter="url(#gg)"/>
+  <text x="63" y="72" class="label">[ WEB ]</text>
+  <text x="63" y="85" class="label">SOURCES</text>
+  <text x="63" y="99" fill="#00FF41" class="sub">scrapers/crawlers</text>
+  <circle cx="18" cy="79" r="3" fill="#00FF41" filter="url(#gg)" class="pulse"/>
 
-  <!-- Connector line 1â†’2 -->
-  <line x1="108" y1="80" x2="198" y2="80" class="line anim-flow1" filter="url(#glow-green)"/>
-  <!-- Moving particle -->
-  <circle r="3.5" fill="#00FF41" filter="url(#glow-green)">
-    <animate attributeName="cx" values="108;198" dur="1.2s" repeatCount="indefinite" begin="0s"/>
-    <animate attributeName="cy" values="80;80" dur="1.2s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0;1;1;0" dur="1.2s" repeatCount="indefinite"/>
+  <!-- Pipe 1â†’2 -->
+  <line x1="108" y1="79" x2="198" y2="79" stroke="#00FF41" stroke-width="1" stroke-dasharray="5 3" opacity="0.45" class="flow1"/>
+  <circle r="3.5" fill="#00FF41" filter="url(#gg)">
+    <animate attributeName="cx" values="108;198" dur="1.1s" repeatCount="indefinite" begin="0s"/>
+    <animate attributeName="cy" values="79;79" dur="1.1s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="1.1s" repeatCount="indefinite"/>
   </circle>
-  <text x="153" y="73" fill="#00FF41" font-family="Share Tech Mono" font-size="7" text-anchor="middle" opacity="0.4">â–º</text>
 
-  <!-- Node 2: ETL -->
-  <rect x="198" y="52" width="90" height="56" rx="3" class="node-hot" filter="url(#glow-red)"/>
-  <text x="243" y="74" class="label-red">[ ETL ]</text>
-  <text x="243" y="87" class="label-red">PIPELINE</text>
-  <text x="243" y="100" fill="#FF003C" font-family="Share Tech Mono" font-size="7" text-anchor="middle" opacity="0.6">transform/clean</text>
-  <circle cx="198" cy="80" r="3" fill="#FF003C" class="anim-pulse" filter="url(#glow-red)"/>
+  <!-- NODE 2: ETL -->
+  <rect x="198" y="50" width="90" height="58" rx="3" fill="#0d0d0d" stroke="#FF003C" stroke-width="1.5" filter="url(#gr)"/>
+  <text x="243" y="72" class="label-r">[ ETL ]</text>
+  <text x="243" y="85" class="label-r">PIPELINE</text>
+  <text x="243" y="99" fill="#FF003C" class="sub">transform / clean</text>
+  <circle cx="198" cy="79" r="3" fill="#FF003C" filter="url(#gr)" class="pulse"/>
 
-  <!-- Connector line 2â†’3 -->
-  <line x1="288" y1="80" x2="338" y2="80" class="line-red anim-flow2"/>
-  <!-- Split: one goes up, one goes down -->
-  <line x1="338" y1="80" x2="338" y2="55" stroke="#FF9500" stroke-width="1" stroke-dasharray="4 3" opacity="0.5" class="anim-flow2"/>
-  <line x1="338" y1="80" x2="338" y2="105" stroke="#00FFFF" stroke-width="1" stroke-dasharray="4 3" opacity="0.5" class="anim-flow3"/>
-  <!-- Moving particles -->
-  <circle r="3" fill="#FF003C" filter="url(#glow-red)">
-    <animate attributeName="cx" values="288;338" dur="0.8s" repeatCount="indefinite" begin="0.4s"/>
-    <animate attributeName="cy" values="80;80" dur="0.8s" repeatCount="indefinite"/>
+  <!-- Pipe 2 â†’ split -->
+  <line x1="288" y1="79" x2="338" y2="79" stroke="#FF003C" stroke-width="1" stroke-dasharray="5 3" opacity="0.45" class="flow2"/>
+  <line x1="338" y1="79" x2="338" y2="52"  stroke="#FF9500" stroke-width="1" stroke-dasharray="4 3" opacity="0.4" class="flow2"/>
+  <line x1="338" y1="79" x2="338" y2="106" stroke="#00FFFF" stroke-width="1" stroke-dasharray="4 3" opacity="0.4" class="flow3"/>
+  <circle r="3" fill="#FF003C" filter="url(#gr)">
+    <animate attributeName="cx" values="288;338" dur="0.8s" repeatCount="indefinite" begin="0.37s"/>
+    <animate attributeName="cy" values="79;79" dur="0.8s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;0" dur="0.8s" repeatCount="indefinite"/>
   </circle>
 
-  <!-- Node 3a: KAFKA (top) -->
-  <rect x="338" y="30" width="90" height="42" rx="3" fill="#0d0d0d" stroke="#FF9500" stroke-width="1.5" filter="url(#glow-green)"/>
-  <text x="383" y="48" fill="#FF9500" font-family="Share Tech Mono" font-size="9" text-anchor="middle">[ KAFKA ]</text>
-  <text x="383" y="61" fill="#FF9500" font-family="Share Tech Mono" font-size="7" text-anchor="middle" opacity="0.6">event streaming</text>
+  <!-- NODE 3a: KAFKA -->
+  <rect x="338" y="28" width="90" height="44" rx="3" fill="#0d0d0d" stroke="#FF9500" stroke-width="1.5" filter="url(#go)"/>
+  <text x="383" y="47" class="label-o">[ KAFKA ]</text>
+  <text x="383" y="61" fill="#FF9500" class="sub">event streaming</text>
 
-  <!-- Node 3b: RabbitMQ (bottom) -->
-  <rect x="338" y="88" width="90" height="42" rx="3" fill="#0d0d0d" stroke="#00FFFF" stroke-width="1.5" filter="url(#glow-cyan)"/>
-  <text x="383" y="107" fill="#00FFFF" font-family="Share Tech Mono" font-size="9" text-anchor="middle">[RABBITMQ]</text>
-  <text x="383" y="120" fill="#00FFFF" font-family="Share Tech Mono" font-size="7" text-anchor="middle" opacity="0.6">message queue</text>
+  <!-- NODE 3b: RabbitMQ -->
+  <rect x="338" y="88" width="90" height="44" rx="3" fill="#0d0d0d" stroke="#00FFFF" stroke-width="1.5" filter="url(#gc)"/>
+  <text x="383" y="108" class="label-c">[RABBITMQ]</text>
+  <text x="383" y="122" fill="#00FFFF" class="sub">message queue</text>
 
-  <!-- Connectors 3â†’4 (merge back) -->
-  <line x1="428" y1="51" x2="488" y2="80" stroke="#FF9500" stroke-width="1" stroke-dasharray="4 3" opacity="0.5" class="anim-flow1"/>
-  <line x1="428" y1="109" x2="488" y2="80" stroke="#00FFFF" stroke-width="1" stroke-dasharray="4 3" opacity="0.5" class="anim-flow3"/>
-  <!-- Particles -->
-  <circle r="3" fill="#FF9500">
+  <!-- Pipes 3â†’4 -->
+  <line x1="428" y1="50"  x2="488" y2="79" stroke="#FF9500" stroke-width="1" stroke-dasharray="4 3" opacity="0.4" class="flow1"/>
+  <line x1="428" y1="110" x2="488" y2="79" stroke="#00FFFF" stroke-width="1" stroke-dasharray="4 3" opacity="0.4" class="flow3"/>
+  <circle r="3" fill="#FF9500" filter="url(#go)">
     <animate attributeName="cx" values="428;488" dur="1.0s" repeatCount="indefinite" begin="0.2s"/>
-    <animate attributeName="cy" values="51;80" dur="1.0s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="50;79" dur="1.0s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;0" dur="1.0s" repeatCount="indefinite"/>
   </circle>
-  <circle r="3" fill="#00FFFF" filter="url(#glow-cyan)">
+  <circle r="3" fill="#00FFFF" filter="url(#gc)">
     <animate attributeName="cx" values="428;488" dur="1.0s" repeatCount="indefinite" begin="0.7s"/>
-    <animate attributeName="cy" values="109;80" dur="1.0s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="110;79" dur="1.0s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;0" dur="1.0s" repeatCount="indefinite"/>
   </circle>
 
-  <!-- Node 4: PROCESSING -->
-  <rect x="488" y="52" width="90" height="56" rx="3" class="node" filter="url(#glow-green)"/>
-  <text x="533" y="74" class="label">[ PROC ]</text>
-  <text x="533" y="87" class="label">SERVICES</text>
-  <text x="533" y="100" fill="#00FF41" font-family="Share Tech Mono" font-size="7" text-anchor="middle" opacity="0.6">index/normalize</text>
-  <circle cx="488" cy="80" r="3" fill="#00FF41" class="anim-pulse"/>
+  <!-- NODE 4: PROCESSING -->
+  <rect x="488" y="50" width="90" height="58" rx="3" fill="#0d0d0d" stroke="#00FF41" stroke-width="1.5" filter="url(#gg)"/>
+  <text x="533" y="72" class="label">[ PROC ]</text>
+  <text x="533" y="85" class="label">SERVICES</text>
+  <text x="533" y="99" fill="#00FF41" class="sub">index / normalize</text>
+  <circle cx="488" cy="79" r="3" fill="#00FF41" class="pulse"/>
 
-  <!-- Split output: to DB and Solr -->
-  <line x1="578" y1="80" x2="618" y2="80" class="line anim-flow1"/>
-  <line x1="618" y1="80" x2="618" y2="55" stroke="#00FF41" stroke-width="1" stroke-dasharray="4 3" opacity="0.5" class="anim-flow2"/>
-  <line x1="618" y1="80" x2="618" y2="105" stroke="#00FFFF" stroke-width="1" stroke-dasharray="4 3" opacity="0.5" class="anim-flow3"/>
-  <!-- Particle -->
-  <circle r="3.5" fill="#00FF41" filter="url(#glow-green)">
+  <!-- Pipe 4 â†’ split -->
+  <line x1="578" y1="79" x2="618" y2="79"  stroke="#00FF41" stroke-width="1" stroke-dasharray="5 3" opacity="0.45" class="flow1"/>
+  <line x1="618" y1="79" x2="618" y2="52"  stroke="#00FF41" stroke-width="1" stroke-dasharray="4 3" opacity="0.4" class="flow2"/>
+  <line x1="618" y1="79" x2="618" y2="106" stroke="#00FFFF" stroke-width="1" stroke-dasharray="4 3" opacity="0.4" class="flow3"/>
+  <circle r="3.5" fill="#00FF41" filter="url(#gg)">
     <animate attributeName="cx" values="578;618" dur="0.6s" repeatCount="indefinite" begin="0s"/>
-    <animate attributeName="cy" values="80;80" dur="0.6s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="79;79" dur="0.6s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;0" dur="0.6s" repeatCount="indefinite"/>
   </circle>
 
-  <!-- Node 5a: PostgreSQL -->
-  <rect x="618" y="30" width="90" height="42" rx="3" fill="#0d0d0d" stroke="#00FF41" stroke-width="1.5" filter="url(#glow-green)"/>
-  <text x="663" y="48" fill="#00FF41" font-family="Share Tech Mono" font-size="9" text-anchor="middle">[POSTGRES]</text>
-  <text x="663" y="61" fill="#00FF41" font-family="Share Tech Mono" font-size="7" text-anchor="middle" opacity="0.6">persistent store</text>
+  <!-- NODE 5a: PostgreSQL -->
+  <rect x="618" y="28" width="90" height="44" rx="3" fill="#0d0d0d" stroke="#00FF41" stroke-width="1.5" filter="url(#gg)"/>
+  <text x="663" y="47" class="label">[POSTGRES]</text>
+  <text x="663" y="61" fill="#00FF41" class="sub">persistent store</text>
 
-  <!-- Node 5b: Solr -->
-  <rect x="618" y="88" width="90" height="42" rx="3" fill="#0d0d0d" stroke="#00FFFF" stroke-width="1.5" filter="url(#glow-cyan)"/>
-  <text x="663" y="107" fill="#00FFFF" font-family="Share Tech Mono" font-size="9" text-anchor="middle">[ SOLR ]</text>
-  <text x="663" y="120" fill="#00FFFF" font-family="Share Tech Mono" font-size="7" text-anchor="middle" opacity="0.6">search index</text>
+  <!-- NODE 5b: Solr -->
+  <rect x="618" y="88" width="90" height="44" rx="3" fill="#0d0d0d" stroke="#00FFFF" stroke-width="1.5" filter="url(#gc)"/>
+  <text x="663" y="108" class="label-c">[ SOLR ]</text>
+  <text x="663" y="122" fill="#00FFFF" class="sub">search index</text>
 
-  <!-- Connectors 5â†’6 -->
-  <line x1="708" y1="51" x2="748" y2="80" stroke="#00FF41" stroke-width="1" stroke-dasharray="4 3" opacity="0.5" class="anim-flow1"/>
-  <line x1="708" y1="109" x2="748" y2="80" stroke="#00FFFF" stroke-width="1" stroke-dasharray="4 3" opacity="0.5" class="anim-flow3"/>
-  <!-- Particles -->
-  <circle r="3" fill="#00FF41" filter="url(#glow-green)">
+  <!-- Pipes 5â†’6 -->
+  <line x1="708" y1="50"  x2="748" y2="79" stroke="#00FF41" stroke-width="1" stroke-dasharray="4 3" opacity="0.4" class="flow1"/>
+  <line x1="708" y1="110" x2="748" y2="79" stroke="#00FFFF" stroke-width="1" stroke-dasharray="4 3" opacity="0.4" class="flow3"/>
+  <circle r="3" fill="#00FF41" filter="url(#gg)">
     <animate attributeName="cx" values="708;748" dur="0.9s" repeatCount="indefinite" begin="0.1s"/>
-    <animate attributeName="cy" values="51;80" dur="0.9s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="50;79" dur="0.9s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;0" dur="0.9s" repeatCount="indefinite"/>
   </circle>
-  <circle r="3" fill="#00FFFF" filter="url(#glow-cyan)">
-    <animate attributeName="cx" values="708;748" dur="0.9s" repeatCount="indefinite" begin="0.5s"/>
-    <animate attributeName="cy" values="109;80" dur="0.9s" repeatCount="indefinite"/>
+  <circle r="3" fill="#00FFFF" filter="url(#gc)">
+    <animate attributeName="cx" values="708;748" dur="0.9s" repeatCount="indefinite" begin="0.55s"/>
+    <animate attributeName="cy" values="110;79" dur="0.9s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;0" dur="0.9s" repeatCount="indefinite"/>
   </circle>
 
-  <!-- Node 6: API / AI -->
-  <rect x="748" y="52" width="38" height="56" rx="3" fill="#0d0d0d" stroke="#FF003C" stroke-width="1.5" filter="url(#glow-red)" class="anim-glitch"/>
-  <text x="767" y="76" fill="#FF003C" font-family="Share Tech Mono" font-size="8" text-anchor="middle">API</text>
-  <text x="767" y="89" fill="#FF003C" font-family="Share Tech Mono" font-size="7" text-anchor="middle">/</text>
-  <text x="767" y="100" fill="#FF003C" font-family="Share Tech Mono" font-size="8" text-anchor="middle">RAG</text>
-  <circle cx="782" cy="80" r="3" fill="#FF003C" class="anim-pulse" filter="url(#glow-red)"/>
+  <!-- NODE 6: API / RAG -->
+  <rect x="748" y="50" width="40" height="58" rx="3" fill="#0d0d0d" stroke="#FF003C" stroke-width="1.5" filter="url(#gr)" class="glitch"/>
+  <text x="768" y="74" fill="#FF003C" font-family="Share Tech Mono" font-size="8" text-anchor="middle">API</text>
+  <text x="768" y="86" fill="#FF003C" font-family="Share Tech Mono" font-size="7" text-anchor="middle" opacity="0.6">/</text>
+  <text x="768" y="98" fill="#FF003C" font-family="Share Tech Mono" font-size="8" text-anchor="middle">RAG</text>
+  <circle cx="784" cy="79" r="3" fill="#FF003C" filter="url(#gr)" class="pulse"/>
 
-  <!-- Footer status bar -->
-  <text x="20" y="150" fill="#00FF41" font-family="Share Tech Mono" font-size="8" opacity="0.5">STATUS: ONLINE</text>
-  <text x="400" y="150" fill="#00FF41" font-family="Share Tech Mono" font-size="8" text-anchor="middle" opacity="0.5">THROUGHPUT: 2.4M RECORDS/DAY</text>
-  <text x="780" y="150" fill="#00FF41" font-family="Share Tech Mono" font-size="8" text-anchor="end" opacity="0.5">LAG: 0ms</text>
+  <!-- Footer bar -->
+  <text x="20"  y="150" fill="#00FF41" font-family="Share Tech Mono" font-size="8" opacity="0.45">STATUS: ONLINE</text>
+  <text x="400" y="150" fill="#00FF41" font-family="Share Tech Mono" font-size="8" text-anchor="middle" opacity="0.45">THROUGHPUT: 2.4M RECORDS/DAY</text>
+  <text x="780" y="150" fill="#00FF41" font-family="Share Tech Mono" font-size="8" text-anchor="end" opacity="0.45">LAG: 0ms</text>
 </svg>
 
 <br/>
 
 <!-- STATUS BADGES -->
-![Status](https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=flat-square&labelColor=030303&color=00FF41)
-![Mode](https://img.shields.io/badge/MODE-DATA__ENGINEER-FF003C?style=flat-square&labelColor=030303&color=FF003C)
-![Grid](https://img.shields.io/badge/GRID-CONNECTED-00FFFF?style=flat-square&labelColor=030303&color=00FFFF)
-![Systems](https://img.shields.io/badge/SYSTEMS-OPERATIONAL-FF9500?style=flat-square&labelColor=030303&color=FF9500)
+![Status](https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=flat-square&labelColor=030303)
+![Mode](https://img.shields.io/badge/ROLE-DATA__ENGINEER-FF003C?style=flat-square&labelColor=030303)
+![Grid](https://img.shields.io/badge/GRID-CONNECTED-00FFFF?style=flat-square&labelColor=030303)
+![Open](https://img.shields.io/badge/OPEN__TO-OPPORTUNITIES-FF9500?style=flat-square&labelColor=030303)
 
 </div>
 
@@ -217,10 +184,10 @@
 â•”â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•—
 â•‘  > whoami                                                            â•‘
 â•‘  â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘  â•‘
-â•‘  NAME     : L16H7N1N65                                          â•‘
-â•‘  CLASS    : DATA ENGINEER // PIPELINE ARCHITECT                      â•‘
-â•‘  LOCATION : [ENCRYPTED]                                              â•‘
-â•‘  MISSION  : Ingest. Process. Index. Expose. Scale.                   â•‘
+â•‘  HANDLE   : L16H7N1N65                                               â•‘
+â•‘  CLASS    : Data Engineer  //  Pipeline Architect                    â•‘
+â•‘  FOCUS    : ETL Â· Search Infrastructure Â· AI/RAG Â· Distributed Sys  â•‘
+â•‘  MISSION  : Ingest. Transform. Index. Expose. Scale.                 â•‘
 â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
 ```
 
@@ -228,23 +195,38 @@
 
 I design and build systems that **ingest**, **process**, **normalize**, **index**, and **expose**
 large volumes of data through scalable, distributed architectures.
-Specializing in ETL pipelines Â· Search Infrastructure Â· AI/RAG Platforms Â· Backend APIs
 
 </div>
 
 ---
 
-## `>> NEURAL LINK`
-
+<!-- STAT COUNTERS -->
 <div align="center">
 
-<a href="mailto:linda.meghouche@gmail.com">
-<img src="https://img.shields.io/badge/â—ˆ_GMAIL-030303?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=030303"/>
-</a>
-
-<a href="https://www.linkedin.com/in/lindamg/">
-<img src="https://img.shields.io/badge/â—ˆ_LINKEDIN-030303?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=030303"/>
-</a>
+<svg width="720" height="80" viewBox="0 0 720 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="sg"><feGaussianBlur stdDeviation="1.8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="sr"><feGaussianBlur stdDeviation="1.8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="sc"><feGaussianBlur stdDeviation="1.8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="so"><feGaussianBlur stdDeviation="1.8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="720" height="80" fill="#030303" rx="5"/>
+  <polyline points="4,16 4,4 16,4"          stroke="#00FF41" stroke-width="1.2" fill="none" opacity="0.5"/>
+  <polyline points="704,4 716,4 716,16"     stroke="#00FF41" stroke-width="1.2" fill="none" opacity="0.5"/>
+  <polyline points="4,64 4,76 16,76"        stroke="#00FF41" stroke-width="1.2" fill="none" opacity="0.5"/>
+  <polyline points="704,76 716,76 716,64"   stroke="#00FF41" stroke-width="1.2" fill="none" opacity="0.5"/>
+  <line x1="180" y1="12" x2="180" y2="68"  stroke="#00FF41" stroke-width="0.5" opacity="0.2"/>
+  <line x1="360" y1="12" x2="360" y2="68"  stroke="#00FF41" stroke-width="0.5" opacity="0.2"/>
+  <line x1="540" y1="12" x2="540" y2="68"  stroke="#00FF41" stroke-width="0.5" opacity="0.2"/>
+  <text x="90"  y="38" fill="#00FF41" font-family="Orbitron,Share Tech Mono,monospace" font-size="22" font-weight="700" text-anchor="middle" filter="url(#sg)">4+</text>
+  <text x="90"  y="58" fill="#00FF41" font-family="Share Tech Mono,monospace" font-size="9" text-anchor="middle" opacity="0.6">YEARS EXP.</text>
+  <text x="270" y="38" fill="#FF003C" font-family="Orbitron,Share Tech Mono,monospace" font-size="22" font-weight="700" text-anchor="middle" filter="url(#sr)">2.4M+</text>
+  <text x="270" y="58" fill="#FF003C" font-family="Share Tech Mono,monospace" font-size="9" text-anchor="middle" opacity="0.6">RECORDS / DAY</text>
+  <text x="450" y="38" fill="#00FFFF" font-family="Orbitron,Share Tech Mono,monospace" font-size="22" font-weight="700" text-anchor="middle" filter="url(#sc)">4</text>
+  <text x="450" y="58" fill="#00FFFF" font-family="Share Tech Mono,monospace" font-size="9" text-anchor="middle" opacity="0.6">ACTIVE PROJECTS</text>
+  <text x="630" y="38" fill="#FF9500" font-family="Orbitron,Share Tech Mono,monospace" font-size="22" font-weight="700" text-anchor="middle" filter="url(#so)">10+</text>
+  <text x="630" y="58" fill="#FF9500" font-family="Share Tech Mono,monospace" font-size="9" text-anchor="middle" opacity="0.6">TECH IN STACK</text>
+</svg>
 
 </div>
 
@@ -254,9 +236,9 @@ Specializing in ETL pipelines Â· Search Infrastructure Â· AI/RAG Platforms �
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=L16H7N1N65&show_icons=true&theme=chartreuse-dark&bg_color=030303&title_color=00FF41&text_color=00CC33&icon_color=FF003C&border_color=00FF41&border_radius=4&hide_border=false&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L16H7N1N65&layout=compact&theme=chartreuse-dark&bg_color=030303&title_color=00FF41&text_color=00CC33&border_color=00FF41&border_radius=4&hide_border=false&langs_count=8"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=L16H7N1N65&show_icons=true&theme=chartreuse-dark&bg_color=030303&title_color=00FF41&text_color=00CC33&icon_color=FF003C&border_color=00FF41&border_radius=4&include_all_commits=true&count_private=true"/>
+&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L16H7N1N65&layout=compact&theme=chartreuse-dark&bg_color=030303&title_color=00FF41&text_color=00CC33&border_color=00FF41&border_radius=4&langs_count=8"/>
 
 </div>
 
@@ -268,92 +250,135 @@ Specializing in ETL pipelines Â· Search Infrastructure Â· AI/RAG Platforms �
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=L16H7N1N65&bg_color=030303&color=00FF41&line=00FF41&point=FF003C&area=true&area_color=003300&border_color=00FF41&hide_border=false&custom_title=â–“â–’â–‘+COMMIT+ACTIVITY+GRAPH+â–‘â–’â–“"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=L16H7N1N65&bg_color=030303&color=00FF41&line=00FF41&point=FF003C&area=true&area_color=003300&border_color=00FF41&custom_title=COMMIT+ACTIVITY+GRAPH"/>
 
 </div>
 
+<!-- SNAKE ANIMATION -->
+<!-- Setup: Profile repo â†’ Settings â†’ Actions â†’ allow workflows. Create .github/workflows/snake.yml -->
+<!-- Once generated, uncomment: -->
+<!-- <img src="https://raw.githubusercontent.com/L16H7N1N65/L16H7N1N65/output/github-contribution-grid-snake-dark.svg"/> -->
+
 ---
 
-## `>> TECH STACK â€” MODULE REGISTRY`
+## `>> TECH STACK`
 
-### â—ˆ DATA ENGINEERING & SEARCH
+<div align="center">
 
-![Python](https://img.shields.io/badge/PYTHON-030303?style=for-the-badge&logo=python&logoColor=00FF41)
-![Scrapy](https://img.shields.io/badge/SCRAPY-030303?style=for-the-badge&logo=scrapy&logoColor=00FF41)
-![Apache Kafka](https://img.shields.io/badge/KAFKA-030303?style=for-the-badge&logo=apachekafka&logoColor=FF003C)
-![RabbitMQ](https://img.shields.io/badge/RABBITMQ-030303?style=for-the-badge&logo=rabbitmq&logoColor=FF9500)
-![Apache Solr](https://img.shields.io/badge/SOLR-030303?style=for-the-badge&logo=apachesolr&logoColor=00FFFF)
-![PostgreSQL](https://img.shields.io/badge/POSTGRES-030303?style=for-the-badge&logo=postgresql&logoColor=00FFFF)
+**[ DATA ENGINEERING & SEARCH ]**
 
-### â—ˆ BACKEND & APIs
+![Python](https://img.shields.io/badge/Python-030303?style=for-the-badge&logo=python&logoColor=00FF41)
+![Scrapy](https://img.shields.io/badge/Scrapy-030303?style=for-the-badge&logo=scrapy&logoColor=00FF41)
+![Kafka](https://img.shields.io/badge/Kafka-030303?style=for-the-badge&logo=apachekafka&logoColor=FF003C)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-030303?style=for-the-badge&logo=rabbitmq&logoColor=FF9500)
+![Solr](https://img.shields.io/badge/Solr-030303?style=for-the-badge&logo=apachesolr&logoColor=00FFFF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-030303?style=for-the-badge&logo=postgresql&logoColor=00FFFF)
 
-![FastAPI](https://img.shields.io/badge/FASTAPI-030303?style=for-the-badge&logo=fastapi&logoColor=00FF41)
-![Flask](https://img.shields.io/badge/FLASK-030303?style=for-the-badge&logo=flask&logoColor=00FF41)
-![Node.js](https://img.shields.io/badge/NODE.JS-030303?style=for-the-badge&logo=node.js&logoColor=FF9500)
+**[ BACKEND & APIs ]**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-030303?style=for-the-badge&logo=fastapi&logoColor=00FF41)
+![Flask](https://img.shields.io/badge/Flask-030303?style=for-the-badge&logo=flask&logoColor=00FF41)
+![Node.js](https://img.shields.io/badge/Node.js-030303?style=for-the-badge&logo=node.js&logoColor=FF9500)
 ![PHP](https://img.shields.io/badge/PHP-030303?style=for-the-badge&logo=php&logoColor=00FFFF)
 
-### â—ˆ FRONTEND INTERFACE
+**[ FRONTEND ]**
 
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-030303?style=for-the-badge&logo=javascript&logoColor=FF9500)
-![React](https://img.shields.io/badge/REACT-030303?style=for-the-badge&logo=react&logoColor=00FFFF)
-![Next.js](https://img.shields.io/badge/NEXT.JS-030303?style=for-the-badge&logo=next.js&logoColor=00FF41)
-![Three.js](https://img.shields.io/badge/THREE.JS-030303?style=for-the-badge&logo=three.js&logoColor=FF003C)
-![Sass](https://img.shields.io/badge/SASS-030303?style=for-the-badge&logo=sass&logoColor=FF003C)
+![JavaScript](https://img.shields.io/badge/JavaScript-030303?style=for-the-badge&logo=javascript&logoColor=FF9500)
+![React](https://img.shields.io/badge/React-030303?style=for-the-badge&logo=react&logoColor=00FFFF)
+![Next.js](https://img.shields.io/badge/Next.js-030303?style=for-the-badge&logo=next.js&logoColor=00FF41)
+![Three.js](https://img.shields.io/badge/Three.js-030303?style=for-the-badge&logo=three.js&logoColor=FF003C)
+![Sass](https://img.shields.io/badge/Sass-030303?style=for-the-badge&logo=sass&logoColor=FF003C)
 
-### â—ˆ PLATFORM & DEVOPS
+**[ PLATFORM & DEVOPS ]**
 
-![Linux](https://img.shields.io/badge/LINUX-030303?style=for-the-badge&logo=linux&logoColor=FF9500)
-![Docker](https://img.shields.io/badge/DOCKER-030303?style=for-the-badge&logo=docker&logoColor=00FFFF)
-![Kubernetes](https://img.shields.io/badge/KUBERNETES-030303?style=for-the-badge&logo=kubernetes&logoColor=00FFFF)
-![Argo CD](https://img.shields.io/badge/ARGOCD-030303?style=for-the-badge&logo=argo&logoColor=FF003C)
-![GitHub Actions](https://img.shields.io/badge/GH_ACTIONS-030303?style=for-the-badge&logo=githubactions&logoColor=00FF41)
-![Git](https://img.shields.io/badge/GIT-030303?style=for-the-badge&logo=git&logoColor=FF003C)
+![Linux](https://img.shields.io/badge/Linux-030303?style=for-the-badge&logo=linux&logoColor=FF9500)
+![Docker](https://img.shields.io/badge/Docker-030303?style=for-the-badge&logo=docker&logoColor=00FFFF)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-030303?style=for-the-badge&logo=kubernetes&logoColor=00FFFF)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-030303?style=for-the-badge&logo=argo&logoColor=FF003C)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-030303?style=for-the-badge&logo=githubactions&logoColor=00FF41)
+![Git](https://img.shields.io/badge/Git-030303?style=for-the-badge&logo=git&logoColor=FF003C)
+
+</div>
 
 ---
 
 ## `>> ACTIVE MISSIONS`
 
-```
-â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-â”‚  â—ˆ PROJECT X                                              [LIVE]  â”‚
-â”‚  â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€  â”‚
-â”‚  Industrialization of a large-scale patent data pipeline.           â”‚
-â”‚  Ingestion â†’ Normalization â†’ Indexing â†’ Search infrastructure.      â”‚
-â”‚  STACK: Python Â· Kafka Â· Solr Â· PostgreSQL Â· Docker Â· K8s           â”‚
-â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+<div align="center">
 
-â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-â”‚  â—ˆ MINDEASE                                                 [LIVE]  â”‚
-â”‚  â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€  â”‚
-â”‚  AI-powered mental health platform with RAG architecture.           â”‚
-â”‚  Vector search Â· LLM interaction Â· Behavioral feedback loops.       â”‚
-â”‚  STACK: FastAPI Â· RAG Â· Vector DB Â· LLM Â· React                     â”‚
-â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+**â—ˆ LAKE EPODOC** &nbsp; ![status](https://img.shields.io/badge/LIVE-00FF41?style=flat-square&labelColor=030303)
 
-â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-â”‚  â—ˆ REAL ESTATE AI PLATFORM                                 [LIVE]   â”‚
-â”‚  â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€  â”‚
-â”‚  Data-driven platform: scrapers Â· valuation algorithms Â· AI agents  â”‚
-â”‚  Geospatial pipelines Â· Property intelligence engine.               â”‚
-â”‚  STACK: Scrapy Â· Python Â· PostgreSQL Â· AI Agents Â· Next.js          â”‚
-â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+> Large-scale patent data pipeline â€” ingestion, normalization, indexing, and search infrastructure at scale.
 
-â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-â”‚  â—ˆ DATA ETL PIPELINES                                      [LIVE]   â”‚
-â”‚  â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€  â”‚
-â”‚  Large-scale ingestion: 2.4M+ records/day.                          â”‚
-â”‚  Multi-source crawling Â· Stream processing Â· Indexed delivery.      â”‚
-â”‚  STACK: Scrapy Â· Kafka Â· RabbitMQ Â· PostgreSQL Â· Solr               â”‚
-â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
-```
+![Python](https://img.shields.io/badge/Python-030303?style=flat-square&logo=python&logoColor=00FF41)
+![Kafka](https://img.shields.io/badge/Kafka-030303?style=flat-square&logo=apachekafka&logoColor=FF003C)
+![Solr](https://img.shields.io/badge/Solr-030303?style=flat-square&logo=apachesolr&logoColor=00FFFF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-030303?style=flat-square&logo=postgresql&logoColor=00FFFF)
+![Docker](https://img.shields.io/badge/Docker-030303?style=flat-square&logo=docker&logoColor=00FFFF)
+![K8s](https://img.shields.io/badge/K8s-030303?style=flat-square&logo=kubernetes&logoColor=FF9500)
+
+&nbsp;
+
+**â—ˆ MINDEASE** &nbsp; ![status](https://img.shields.io/badge/LIVE-00FF41?style=flat-square&labelColor=030303)
+
+> AI-powered mental health platform â€” RAG architecture, vector search, LLM interaction, behavioral feedback loops.
+
+![FastAPI](https://img.shields.io/badge/FastAPI-030303?style=flat-square&logo=fastapi&logoColor=00FF41)
+![React](https://img.shields.io/badge/React-030303?style=flat-square&logo=react&logoColor=00FFFF)
+![Python](https://img.shields.io/badge/Python-030303?style=flat-square&logo=python&logoColor=00FF41)
+![RAG](https://img.shields.io/badge/RAG-030303?style=flat-square&logoColor=FF003C)
+![VectorDB](https://img.shields.io/badge/VectorDB-030303?style=flat-square&logoColor=FF9500)
+
+&nbsp;
+
+**â—ˆ REAL ESTATE AI PLATFORM** &nbsp; ![status](https://img.shields.io/badge/LIVE-00FF41?style=flat-square&labelColor=030303)
+
+> Data-driven property platform â€” scrapers, valuation algorithms, AI agents, geospatial data pipelines.
+
+![Scrapy](https://img.shields.io/badge/Scrapy-030303?style=flat-square&logo=scrapy&logoColor=00FF41)
+![Python](https://img.shields.io/badge/Python-030303?style=flat-square&logo=python&logoColor=00FF41)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-030303?style=flat-square&logo=postgresql&logoColor=00FFFF)
+![Next.js](https://img.shields.io/badge/Next.js-030303?style=flat-square&logo=next.js&logoColor=00FF41)
+![AI Agents](https://img.shields.io/badge/AI_Agents-030303?style=flat-square&logoColor=FF003C)
+
+&nbsp;
+
+**â—ˆ DATA ETL PIPELINES** &nbsp; ![status](https://img.shields.io/badge/LIVE-00FF41?style=flat-square&labelColor=030303)
+
+> High-throughput ingestion â€” multi-source crawling, stream processing, indexed delivery at **2.4M+ records/day**.
+
+![Scrapy](https://img.shields.io/badge/Scrapy-030303?style=flat-square&logo=scrapy&logoColor=00FF41)
+![Kafka](https://img.shields.io/badge/Kafka-030303?style=flat-square&logo=apachekafka&logoColor=FF003C)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-030303?style=flat-square&logo=rabbitmq&logoColor=FF9500)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-030303?style=flat-square&logo=postgresql&logoColor=00FFFF)
+![Solr](https://img.shields.io/badge/Solr-030303?style=flat-square&logo=apachesolr&logoColor=00FFFF)
+
+</div>
 
 ---
 
-## `>> SYSTEM UPTIME`
+## `>> TROPHIES`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=L16H7N1N65&theme=matrix&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=L16H7N1N65&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+
+</div>
+
+---
+
+## `>> NEURAL LINK`
+
+<div align="center">
+
+<a href="mailto:linda.meghouche@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-030303?style=for-the-badge&logo=gmail&logoColor=00FF41"/>
+</a>
+
+&nbsp;
+<a href="https://www.linkedin.com/in/lindamg/">
+<img src="https://img.shields.io/badge/LinkedIn-030303?style=for-the-badge&logo=linkedin&logoColor=00FF41"/>
+</a>
 
 </div>
 
@@ -361,20 +386,14 @@ Specializing in ETL pipelines Â· Search Infrastructure Â· AI/RAG Platforms �
 
 <div align="center">
 
-```
-â•”â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•—
-â•‘                                                          â•‘
-â•‘   "Data is the new grid. Pipelines are the new power."  â•‘
-â•‘                                                          â•‘
-â•‘              [ L16H7N1N65 // 2025 ]                 â•‘
-â•‘                                                          â•‘
-â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
-```
-
 <img src="https://komarev.com/ghpvc/?username=L16H7N1N65&label=GRID+VISITORS&color=00FF41&style=flat-square&labelColor=030303"/>
 
+<br/><br/>
+
+
+
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=11&duration=3000&pause=500&color=006600&background=00000000&center=true&vCenter=true&width=500&lines=%5BSYS%5D+Session+terminated.+Connection+closed.;%5BSYS%5D+See+you+on+the+grid..."/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=11&duration=3000&pause=600&color=006600&background=00000000&center=true&vCenter=true&width=500&lines=%5BSYS%5D+Session+terminated.+Connection+closed.;%5BSYS%5D+See+you+on+the+grid..."/>
 </a>
 
 </div>
