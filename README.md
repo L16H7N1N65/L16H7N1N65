@@ -17,6 +17,9 @@
 <img src="https://img.shields.io/badge/GRID-CONNECTED-%2300FFFF?style=flat-square&labelColor=030303"/>
 
 </div>
+
+---
+
 <div align="center">
 
 ### STACK
@@ -32,6 +35,8 @@
 
 </div>
 
+---
+
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=L16H7N1N65&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
@@ -40,14 +45,19 @@
 
 </div>
 
+---
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
+
+---
+
 <div align="center">
 
-
+### VISITOR METRICS
 
 <img src="https://komarev.com/ghpvc/?username=L16H7N1N65&label=PROFILE+VIEWS&color=00ff41&style=flat-square"/>
 
@@ -56,10 +66,13 @@
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/L16H7N1N65&count_bg=%2300FF41&title_bg=%23000000&title=VISITORS"/>
 
 </div>
+
+---
+
 <div align="center">
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/L16H7N1N65&count_bg=%2300FF41&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=VISITORS&edge_flat=false"/>
+### SYSTEM ACTIVITY
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=L16H7N1N65&theme=chartreuse-dark&hide_border=true"/>
 
 </div>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=L16H7N1N65&theme=react-dark"/>
