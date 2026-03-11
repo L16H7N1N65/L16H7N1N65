@@ -22,8 +22,6 @@
 
 <div align="center">
 
-### STACK
-
 <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=00FF41"/>
 <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=00FF41"/>
 <img src="https://img.shields.io/badge/Kafka-111111?style=for-the-badge&logo=apachekafka&logoColor=00FF41"/>
@@ -63,11 +61,10 @@
 
 <br/>
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/L16H7N1N65&count_bg=%2300FF41&title_bg=%23000000&title=VISITORS"/>
+<img src="https://clustrmaps.com/map_v2.png?d=QJQDexMGs2y5PGWKbvdzkgIYgGGD_tKy6Q3shzhUsBs&cl=00ff41&w=800"/>
 
 </div>
 
----
 
 <div align="center">
 
