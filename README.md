@@ -1,4 +1,8 @@
-![neofetch](https://github.com/user-attachments/assets/a8e167db-e5db-443a-b04b-2fb489f0e5bf)<div align="center">
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/a8e167db-e5db-443a-b04b-2fb489f0e5bf" width="420"/>
+
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=12&duration=350&pause=60&color=00FF41&background=00000000&center=true&vCenter=true&width=640&lines=%5BSYS%3A%3ABOOT%5D+Initializing+neural+interface...;%5BSYS%3A%3ABOOT%5D+Loading+data+pipeline+modules...;%5BSYS%3A%3ABOOT%5D+Connecting+to+distributed+grid...;%5BSYS%3A%3ABOOT%5D+RAG+systems+online...;%5BSYS%3A%3ABOOT%5D+All+systems+nominal.+Welcome." />
 
@@ -8,13 +12,8 @@
 
 <br/>
 
-![](https://img.shields.io/badge/STATUS-ONLINE-%2300FF41?style=flat-square&labelColor=030303)
-![](https://img.shields.io/badge/ROLE-DATA__ENGINEER-%23FF003C?style=flat-square&labelColor=030303)
-![](https://img.shields.io/badge/GRID-CONNECTED-%2300FFFF?style=flat-square&labelColor=030303)
-
-<br/><br/>
-
-
-
+<img src="https://img.shields.io/badge/STATUS-ONLINE-%2300FF41?style=flat-square&labelColor=030303"/>
+<img src="https://img.shields.io/badge/ROLE-DATA__ENGINEER-%23FF003C?style=flat-square&labelColor=030303"/>
+<img src="https://img.shields.io/badge/GRID-CONNECTED-%2300FFFF?style=flat-square&labelColor=030303"/>
 
 </div>
