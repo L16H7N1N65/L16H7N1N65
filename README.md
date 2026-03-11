@@ -45,3 +45,21 @@
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
+<div align="center">
+
+
+
+<img src="https://komarev.com/ghpvc/?username=L16H7N1N65&label=PROFILE+VIEWS&color=00ff41&style=flat-square"/>
+
+<br/>
+
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/L16H7N1N65&count_bg=%2300FF41&title_bg=%23000000&title=VISITORS"/>
+
+</div>
+<div align="center">
+
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/L16H7N1N65&count_bg=%2300FF41&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=VISITORS&edge_flat=false"/>
+
+</div>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=L16H7N1N65&theme=react-dark"/>
